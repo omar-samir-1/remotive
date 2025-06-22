@@ -1,0 +1,56 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
+.message {
+  text-align: center;
+}
+.homeLink {
+  color: black;
+}
+.homeLink:hover {
+  color: rgb(255, 255, 255);
+}
+/* old very small phones */
+@media (max-width: 320px) {
+  .container {
+    height: calc(100% - 40px - 73.3px);
+  }
+}
+/* Mobile (Small Screens) */
+@media only screen and (min-width: 321px) and (max-width: 480px) {
+  .container {
+    height: calc(100% - 41px - 73.3px);
+  }
+}
+
+/* Mobile (Medium Screens) */
+@media only screen and (min-width: 481px) and (max-width: 767px) {
+  .container {
+    height: calc(100% - 43px - 74.6px);
+  }
+}
+
+/* Tablet (Portrait) */
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .container {
+    height: calc(100% - 48px - 81px);
+  }
+}
+
+/* Tablet (Landscape) / Small Laptops */
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+  .container {
+    height: calc(100% - 54px - 85.3px);
+  }
+}
+
+/* Desktop (Large Screens) */
+@media only screen and (min-width: 1200px) {
+  .container {
+    height: calc(100% - 64px - 98.6px);
+  }
+}

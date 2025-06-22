@@ -1,0 +1,256 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
+
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  padding: 0 20px;
+}
+
+.sortingContainer {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+}
+.select {
+  color: black;
+}
+.loading,
+.noJobsFound {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  margin: 20px 0 15px 0;
+}
+
+.loading p,
+.noJobsFound p {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  max-width: 300px;
+  max-height: 70px;
+
+  color: white;
+  padding: 10px;
+  border-radius: 10px;
+  font-weight: 500;
+  text-align: center;
+}
+.loading p {
+  background-color: rgb(59, 59, 190);
+}
+.noJobsFound p {
+  background-color: rgb(190, 59, 59);
+}
+.loadMoreButton {
+  background-color: rgb(119, 119, 119);
+
+  border: none;
+  border-radius: 15px;
+  cursor: pointer;
+
+  color: white;
+}
+
+.loadMoreButton:hover {
+  background-color: rgb(135, 82, 16);
+}
+
+/* old very small phones */
+@media (max-width: 320px) {
+  .container {
+    margin-top: 25px;
+    row-gap: 10px;
+    padding: 5px 10px;
+  }
+  .header {
+    padding: 0 8px;
+  }
+  .header h2 {
+    font-size: 13px;
+  }
+  .sortingContainer {
+    font-size: 10px;
+  }
+  .select {
+    font-size: 10px;
+  }
+  .loadMoreButton {
+    margin: 10px 0;
+    font-size: 8px;
+    padding: 5px 10px;
+  }
+  .loading p,
+  .noJobsFound p {
+    font-size: 11px;
+    max-width: 70%;
+    max-height: 50px;
+  }
+}
+/* Mobile (Small Screens) */
+@media only screen and (min-width: 321px) and (max-width: 480px) {
+  .container {
+    margin-top: 25px;
+    row-gap: 10px;
+    padding: 5px 10px;
+  }
+  .header {
+    padding: 0 8px;
+  }
+  .header h2 {
+    font-size: 14px;
+  }
+  .sortingContainer {
+    font-size: 11px;
+  }
+  .select {
+    font-size: 11px;
+  }
+  .loadMoreButton {
+    margin: 10px 0;
+    font-size: 9px;
+    padding: 6px 12px;
+  }
+  .loading p,
+  .noJobsFound p {
+    font-size: 12px;
+    max-width: 65%;
+    max-height: 50px;
+  }
+}
+
+/* Mobile (Medium Screens) */
+@media only screen and (min-width: 481px) and (max-width: 767px) {
+  .container {
+    margin-top: 25px;
+    row-gap: 10px;
+    padding: 5px 10px;
+  }
+  .header {
+    padding: 0 8px;
+  }
+  .header h2 {
+    font-size: 15px;
+  }
+  .sortingContainer,
+  .select {
+    font-size: 11px;
+  }
+
+  .loadMoreButton {
+    margin: 10px 0;
+    font-size: 12px;
+    padding: 7px 15px;
+  }
+  .loading p,
+  .noJobsFound p {
+    font-size: 13px;
+
+    max-height: 50px;
+  }
+}
+
+/* Tablet (Portrait) */
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .container {
+    margin-top: 25px;
+    row-gap: 10px;
+    padding: 5px 10px;
+  }
+  .header {
+    padding: 0 8px;
+  }
+  .header h2 {
+    font-size: 16px;
+  }
+  .sortingContainer,
+  .select {
+    font-size: 12px;
+  }
+
+  .loadMoreButton {
+    margin: 10px 0;
+    font-size: 12px;
+    padding: 7px 15px;
+  }
+  .loading p,
+  .noJobsFound p {
+    font-size: 14px;
+  }
+}
+
+/* Tablet (Landscape) / Small Laptops */
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+  .container {
+    margin-top: 25px;
+    padding: 10px;
+    row-gap: 12px;
+    width: 72%;
+  }
+  .header {
+    padding: 0 8px;
+  }
+  .header h2 {
+    font-size: 17px;
+  }
+  .sortingContainer,
+  .select {
+    font-size: 13px;
+  }
+
+  .loadMoreButton {
+    margin: 10px 0;
+    font-size: 13px;
+    padding: 7px 15px;
+  }
+  .loading p,
+  .noJobsFound p {
+    font-size: 15px;
+  }
+}
+
+/* Desktop (Large Screens) */
+@media only screen and (min-width: 1200px) {
+  .container {
+    margin-top: 25px;
+    padding: 10px;
+    row-gap: 14px;
+    width: 72%;
+    max-width: 1200px;
+  }
+  .header {
+    padding: 0 8px;
+  }
+  .header h2 {
+    font-size: 26px;
+  }
+  .sortingContainer,
+  .select {
+    font-size: 15px;
+  }
+
+  .loadMoreButton {
+    margin: 10px 0;
+    font-size: 16px;
+    padding: 7px 24px;
+  }
+  .loading p,
+  .noJobsFound p {
+    font-size: 16px;
+  }
+}

@@ -1,0 +1,486 @@
+.loadingSpinnerContainer {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+}
+
+.loadingSpinner {
+  border-radius: 50%;
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+.errorContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 7px;
+  width: 100%;
+  padding: 30px 15px;
+}
+.container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #fef6e9;
+}
+.subContainer {
+  width: 100%;
+  display: grid;
+  grid-template-columns: 65% 35%;
+  grid-template-rows: 100%;
+
+  overflow: hidden;
+}
+
+.applicationFormContainer {
+  background-color: #fef6e9;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  height: 100%;
+  width: 100%;
+  gap: 15px;
+}
+
+.applicationFormHeader {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+.entriesContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 15px;
+}
+.titlePlusCompany {
+  border-radius: 15px;
+  background-color: #ffe699;
+  width: fit-content;
+  padding: 5px 8px;
+}
+.entriesContainer div:last-child input {
+  display: none;
+}
+
+.entry {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  width: 100%;
+}
+.entry input,
+.entriesContainer div:last-child label {
+  border-radius: 15px;
+  padding: 10px;
+  border: 1.5px solid #d1be90;
+}
+.entriesContainer div:last-child label {
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+.entriesContainer div:last-child label:hover {
+  background-color: #9e9e9e;
+}
+.entry input:focus {
+  outline: none;
+  border: 1.5px solid #ffc532;
+}
+
+.applicationFormContainer button {
+  font-weight: normal;
+  color: black;
+  background-color: #ffecbd;
+  cursor: pointer;
+  border-radius: 15px;
+  margin: 0 auto;
+  border: 1.5px solid #d1be90;
+  transition: all 0.3s ease-in-out;
+}
+.applicationFormContainer button:hover {
+  background-color: #ffc42e;
+  transform: scale(1.1);
+}
+
+.headOfPeopleContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.headOfPeople {
+  transition: filter 0.8s ease-in-out;
+}
+.blur {
+  filter: blur(10px);
+}
+.backToHomePageBtn {
+  margin-left: 5px;
+  color: #543933;
+}
+.backToHomePageBtn:hover {
+  color: #ffffff;
+}
+.navigateToHomepageBtn {
+  color: rgb(75, 75, 75);
+}
+.navigateToHomepageBtn:hover {
+  color: #ffc532;
+}
+.successMessageContainer {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* old very small phones */
+@media (max-width: 320px) {
+  .loadingSpinnerContainer {
+    height: calc(100% - 40px - 73.3px);
+  }
+  .loadingSpinner {
+    width: 30px;
+    height: 30px;
+    border: 2px solid #e6dfdf;
+    border-top: 2px solid #f7c6a0;
+  }
+  .errorContainer {
+    font-size: 0.6rem;
+    height: calc(100% - 40px - 73.3px);
+  }
+  .container {
+    height: calc(100% - 40px - 73.3px);
+  }
+  .subContainer {
+    font-size: 0.6rem;
+    height: 100%;
+    grid-template-columns: 100%;
+  }
+  .applicationFormContainer {
+    padding: 15px;
+  }
+  .entry input {
+    height: 15px;
+    width: 200px;
+
+    font-size: 9px;
+  }
+
+  .entriesContainer div:last-child label {
+    height: 20px;
+    width: 100px;
+    font-size: 9px;
+  }
+  .applicationFormContainer button {
+    width: 100px;
+    height: 25px;
+    font-size: 12px;
+  }
+  .headOfPeopleContainer {
+    display: none;
+  }
+  .successMessageContainer {
+    font-size: 0.6rem;
+  }
+}
+/* Mobile (Small Screens) */
+@media only screen and (min-width: 321px) and (max-width: 480px) {
+  .loadingSpinnerContainer {
+    height: calc(100% - 41px - 73.3px);
+  }
+  .loadingSpinner {
+    width: 30px;
+    height: 30px;
+    border: 2px solid #e6dfdf;
+    border-top: 2px solid #f7c6a0;
+  }
+  .errorContainer {
+    font-size: 0.6rem;
+    height: calc(100% - 41px - 73.3px);
+  }
+  .container {
+    height: calc(100% - 41px - 73.3px);
+  }
+  .subContainer {
+    font-size: 0.6rem;
+    height: 100%;
+    grid-template-columns: 100%;
+  }
+  .applicationFormContainer {
+    padding: 15px;
+  }
+  .entry input {
+    height: 20px;
+    max-width: 260px;
+    width: 70%;
+    font-size: 9px;
+  }
+
+  .entriesContainer div:last-child label {
+    height: 20px;
+    width: 100px;
+    font-size: 9px;
+  }
+  .applicationFormContainer button {
+    width: 100px;
+    height: 25px;
+    font-size: 12px;
+  }
+  .headOfPeopleContainer {
+    display: none;
+  }
+    .successMessageContainer {
+    font-size: 0.7rem;
+  }
+}
+
+/* Mobile (Medium Screens) */
+@media only screen and (min-width: 481px) and (max-width: 767px) {
+  .loadingSpinnerContainer {
+    height: calc(100% - 43px - 74.6px);
+  }
+  .loadingSpinner {
+    width: 35px;
+    height: 35px;
+    border: 3px solid #e6dfdf;
+    border-top: 3px solid #f7c6a0;
+  }
+  .errorContainer {
+    font-size: 0.7rem;
+    height: calc(100% - 43px - 74.6px);
+  }
+  .container {
+    height: calc(100% - 43px - 74.6px);
+  }
+  .subContainer {
+    font-size: 0.7rem;
+    height: 100%;
+    grid-template-columns: 100%;
+    place-items: center;
+  }
+  .applicationFormContainer {
+    padding: 15px 30px;
+    width: 400px;
+    border-radius: 15px;
+    box-shadow: 0px 0px 5px 1px rgb(70, 57, 57);
+    height: 97%;
+  }
+  .entry input {
+    height: 20px;
+    max-width: 300px;
+    width: 70%;
+    font-size: 10px;
+  }
+
+  .entriesContainer div:last-child label {
+    height: 20px;
+    width: 100px;
+    font-size: 11px;
+  }
+  .applicationFormContainer button {
+    width: 100px;
+    height: 25px;
+    font-size: 13px;
+  }
+  .headOfPeopleContainer {
+    display: none;
+  }
+    .successMessageContainer {
+    font-size: 0.8rem;
+  }
+}
+/* Tablet (Portrait) */
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .loadingSpinnerContainer {
+    height: calc(100% - 48px - 81px);
+  }
+  .loadingSpinner {
+    width: 37px;
+    height: 37px;
+    border: 4px solid #e6dfdf;
+    border-top: 4px solid #f7c6a0;
+  }
+  .errorContainer {
+    font-size: 0.7rem;
+    height: calc(100% - 48px - 81px);
+  }
+  .container {
+    height: calc(100% - 48px - 81px);
+  }
+  .subContainer {
+    font-size: 0.7rem;
+    height: 100%;
+  }
+  .applicationFormContainer {
+    padding: 15px 30px;
+  }
+  .entry input {
+    height: 20px;
+    max-width: 300px;
+    width: 70%;
+    font-size: 10px;
+  }
+
+  .entriesContainer div:last-child label {
+    height: 20px;
+    width: 100px;
+    font-size: 11px;
+  }
+  .applicationFormContainer button {
+    width: 100px;
+    height: 25px;
+    font-size: 13px;
+  }
+
+  .headOfPeople {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+  }
+    .successMessageContainer {
+    font-size: 0.9rem;
+  }
+}
+
+/* Tablet (Landscape) / Small Laptops */
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+  .loadingSpinnerContainer {
+    height: calc(100% - 53.98px - 85.75px);
+  }
+  .loadingSpinner {
+    width: 37px;
+    height: 37px;
+    border: 4px solid #e6dfdf;
+    border-top: 4px solid #f7c6a0;
+  }
+  .errorContainer {
+    font-size: 0.8rem;
+    height: calc(100% - 53.98px - 85.75px);
+  }
+  .container {
+    height: calc(100% - 53.98px - 85.75px);
+  }
+  .subContainer {
+    font-size: 0.8rem;
+    height: 100%;
+  }
+  .applicationFormContainer {
+    padding: 10px 40px;
+  }
+  .entry input {
+    height: 15px;
+    max-width: 360px;
+    width: 70%;
+    font-size: 10px;
+  }
+
+  .entriesContainer div:last-child label {
+    height: 15px;
+    width: 100px;
+    font-size: 12px;
+  }
+  .applicationFormContainer button {
+    width: 150px;
+    height: 25px;
+    font-size: 14px;
+  }
+
+  .headOfPeople {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+  }
+    .successMessageContainer {
+    font-size: 1rem;
+  }
+}
+
+/* Desktop (Large Screens) */
+@media only screen and (min-width: 1200px) {
+  .loadingSpinnerContainer {
+    height: calc(100% - 64px - 98.67px);
+  }
+  .loadingSpinner {
+    width: 44px;
+    height: 44px;
+    border: 5px solid #e6dfdf;
+    border-top: 5px solid #f7c6a0;
+  }
+  .errorContainer {
+    font-size: 1rem;
+    height: calc(100% - 64px - 98.67px);
+  }
+  .container {
+    height: calc(100% - 64px - 98.67px);
+  }
+  .subContainer {
+    font-size: 0.9rem;
+    width: 100%;
+    height: 100%;
+  }
+  .successMessage {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: calc(100% - 64px - 98.6px);
+    gap: 10px;
+    width: 100%;
+    background-color: #fef6e9;
+  }
+  .applicationFormContainer {
+    padding: 10px 40px;
+
+    border-radius: 15px 0 0 15px;
+  }
+  .entriesContainer {
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+  }
+  .entry {
+    width: 340px;
+  }
+  .entry input {
+    height: 30px;
+    width: 300px;
+    font-size: 14px;
+  }
+
+  .entriesContainer div:last-child label {
+    height: 25px;
+    width: 140px;
+    font-size: 13px;
+  }
+  .applicationFormContainer button {
+    width: 160px;
+    height: 28px;
+    font-size: 16px;
+  }
+
+  .headOfPeople {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+  }
+      .successMessageContainer {
+    font-size: 1rem;
+  }
+}

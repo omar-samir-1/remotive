@@ -1,0 +1,502 @@
+[
+  {
+    "id": 1,
+    "jobTitle": "Full Stack Software Developer",
+    "company": "Tech Corp",
+    "location": ["Any Country"],
+    "industry": "Software Development",
+    "salary": "$120000",
+    "time": "2025-05-08T06:30:23.983Z",
+    "logo_number_id": 6
+  },
+  {
+    "id": 2,
+    "jobTitle": "Financial Data Analyst",
+    "company": "DataVision",
+    "location": ["Canada", "United States"],
+    "industry": "Finance / Legal",
+    "salary": "$95000",
+    "time": "2025-04-18T10:09:13.822057",
+    "logo_number_id": 1
+  },
+  {
+    "id": 3,
+    "jobTitle": "Digital Marketing Manager",
+    "company": "InnoTech",
+    "location": ["Germany"],
+    "industry": "Marketing",
+    "salary": "$130000",
+    "time": "2025-05-08T02:30:23.983Z",
+    "logo_number_id": 3
+  },
+  {
+    "id": 4,
+    "jobTitle": "UI/UX Designer",
+    "company": "DesignWorks",
+    "location": ["Australia", "United Kingdom", "Canada"],
+    "industry": "Design",
+    "salary": "$90000",
+    "time": "2025-04-28T05:52:13.822084",
+    "logo_number_id": 4
+  },
+  {
+    "id": 5,
+    "jobTitle": "DevOps Software Engineer",
+    "company": "CloudNest",
+    "location": ["United Kingdom"],
+    "industry": "Software Development",
+    "salary": "$115000",
+    "time": "2025-05-08T01:30:23.983Z",
+    "logo_number_id": 5
+  },
+  {
+    "id": 6,
+    "jobTitle": "Frontend Web Developer",
+    "company": "WebWorld",
+    "location": ["Any Country"],
+    "industry": "Software Development",
+    "salary": "$105000",
+    "time": "2025-05-08T08:30:23.983Z",
+    "logo_number_id": 2
+  },
+  {
+    "id": 7,
+    "jobTitle": "Backend Systems Developer",
+    "company": "ServerSide Inc.",
+    "location": ["Germany", "Canada"],
+    "industry": "Software Development",
+    "salary": "$110000",
+    "time": "2025-05-04T20:29:13.822118",
+    "logo_number_id": 2
+  },
+  {
+    "id": 8,
+    "jobTitle": "QA Automation Engineer",
+    "company": "QualityFirst",
+    "location": ["India"],
+    "industry": "Software Development",
+    "salary": "$95000",
+    "time": "2025-04-27T14:25:13.822130",
+    "logo_number_id": 2
+  },
+  {
+    "id": 9,
+    "jobTitle": "Security Software Analyst",
+    "company": "SecureNet",
+    "location": ["Any Country"],
+    "industry": "Software Development",
+    "salary": "$125000",
+    "time": "2025-04-18T02:07:13.822140",
+    "logo_number_id": 6
+  },
+  {
+    "id": 10,
+    "jobTitle": "Mobile App Developer",
+    "company": "Appify",
+    "location": ["India", "Canada"],
+    "industry": "Software Development",
+    "salary": "$108000",
+    "time": "2025-05-08T08:36:23.983Z",
+    "logo_number_id": 1
+  },
+  {
+    "id": 11,
+    "jobTitle": "AI Software Researcher",
+    "company": "DeepBrain",
+    "location": ["Japan"],
+    "industry": "Software Development",
+    "salary": "$140000",
+    "time": "2025-04-17T03:10:13.822158",
+    "logo_number_id": 6
+  },
+  {
+    "id": 12,
+    "jobTitle": "Customer Support Specialist",
+    "company": "TechAssist",
+    "location": ["India", "United States"],
+    "industry": "Customer Service",
+    "salary": "$70000",
+    "time": "2025-05-08T08:20:23.983Z",
+    "logo_number_id": 6
+  },
+  {
+    "id": 13,
+    "jobTitle": "Database Developer",
+    "company": "DataKeepers",
+    "location": ["Australia"],
+    "industry": "Software Development",
+    "salary": "$102000",
+    "time": "2025-04-14T16:01:13.822175",
+    "logo_number_id": 5
+  },
+  {
+    "id": 14,
+    "jobTitle": "Systems Software Analyst",
+    "company": "SysSolve",
+    "location": ["India", "Germany", "Japan"],
+    "industry": "Software Development",
+    "salary": "$98000",
+    "time": "2025-05-02T06:43:13.822184",
+    "logo_number_id": 1
+  },
+  {
+    "id": 15,
+    "jobTitle": "Cloud Software Engineer",
+    "company": "NimbusTech",
+    "location": ["Any Country"],
+    "industry": "Software Development",
+    "salary": "$120000",
+    "time": "2025-05-08T08:10:23.983Z",
+    "logo_number_id": 5
+  },
+  {
+    "id": 16,
+    "jobTitle": "Network Software Engineer",
+    "company": "ConnectPro",
+    "location": ["United Kingdom"],
+    "industry": "Software Development",
+    "salary": "$97000",
+    "time": "2025-04-20T00:20:13.822200",
+    "logo_number_id": 4
+  },
+  {
+    "id": 17,
+    "jobTitle": "Machine Learning Developer",
+    "company": "SmartPredict",
+    "location": ["Japan", "Germany"],
+    "industry": "Software Development",
+    "salary": "$135000",
+    "time": "2025-05-01T08:03:13.822208",
+    "logo_number_id": 1
+  },
+  {
+    "id": 18,
+    "jobTitle": "Software Engineering Consultant",
+    "company": "StackFlow",
+    "location": ["Canada"],
+    "industry": "Software Development",
+    "salary": "$112000",
+    "time": "2025-04-27T09:45:13.822216",
+    "logo_number_id": 1
+  },
+  {
+    "id": 19,
+    "jobTitle": "Business Finance Analyst",
+    "company": "BizInsights",
+    "location": ["Germany", "United States"],
+    "industry": "Finance / Legal",
+    "salary": "$92000",
+    "time": "2025-05-05T06:36:13.822224",
+    "logo_number_id": 1
+  },
+  {
+    "id": 20,
+    "jobTitle": "Customer Documentation Specialist",
+    "company": "DocuPro",
+    "location": ["India"],
+    "industry": "Customer Service",
+    "salary": "$85000",
+    "time": "2025-05-08T07:00:23.983Z",
+    "logo_number_id": 2
+  },
+  {
+    "id": 21,
+    "jobTitle": "Project Manager",
+    "company": "CoreLogic",
+    "location": ["Germany"],
+    "industry": "Project Management",
+    "salary": "$133029",
+    "time": "2025-04-14T16:21:13.822758",
+    "logo_number_id": 2
+  },
+  {
+    "id": 22,
+    "jobTitle": "Project Manager",
+    "company": "BlueSky",
+    "location": ["Canada"],
+    "industry": "Project Management",
+    "salary": "$105033",
+    "time": "2025-04-11T14:28:13.822776",
+    "logo_number_id": 5
+  },
+  {
+    "id": 23,
+    "jobTitle": "Business Development Associate",
+    "company": "CoreLogic",
+    "location": ["Germany"],
+    "industry": "Sales",
+    "salary": "$119369",
+    "time": "2025-05-05T19:34:13.822790",
+    "logo_number_id": 5
+  },
+  {
+    "id": 24,
+    "jobTitle": "Sales Representative",
+    "company": "BlueSky",
+    "location": ["Australia"],
+    "industry": "Sales",
+    "salary": "$75394",
+    "time": "2025-04-26T19:22:13.822802",
+    "logo_number_id": 1
+  },
+  {
+    "id": 25,
+    "jobTitle": "Account Executive",
+    "company": "CoreLogic",
+    "location": ["Germany"],
+    "industry": "Sales",
+    "salary": "$79039",
+    "time": "2025-04-12T07:48:13.822816",
+    "logo_number_id": 5
+  },
+  {
+    "id": 26,
+    "jobTitle": "Sales Representative",
+    "company": "BrightPath",
+    "location": ["India"],
+    "industry": "Sales",
+    "salary": "$114645",
+    "time": "2025-05-08T02:36:13.822830",
+    "logo_number_id": 2
+  },
+  {
+    "id": 27,
+    "jobTitle": "Copywriter",
+    "company": "Innova",
+    "location": ["Canada"],
+    "industry": "Writing",
+    "salary": "$134071",
+    "time": "2025-04-16T11:19:13.822842",
+    "logo_number_id": 6
+  },
+  {
+    "id": 28,
+    "jobTitle": "Program Coordinator",
+    "company": "BrightPath",
+    "location": ["Any Country"],
+    "industry": "Project Management",
+    "salary": "$123691",
+    "time": "2025-04-25T08:15:13.822859",
+    "logo_number_id": 6
+  },
+  {
+    "id": 29,
+    "jobTitle": "Business Intelligence Analyst",
+    "company": "Visionary Inc",
+    "location": ["United States"],
+    "industry": "Data Analysis",
+    "salary": "$68815",
+    "time": "2025-05-04T06:23:13.822868",
+    "logo_number_id": 6
+  },
+  {
+    "id": 30,
+    "jobTitle": "Content Writer",
+    "company": "NextGen",
+    "location": ["Germany"],
+    "industry": "Writing",
+    "salary": "$64547",
+    "time": "2025-04-24T05:55:13.822876",
+    "logo_number_id": 5
+  },
+  {
+    "id": 31,
+    "jobTitle": "Data Analyst",
+    "company": "NextGen",
+    "location": ["Australia"],
+    "industry": "Data Analysis",
+    "salary": "$86295",
+    "time": "2025-04-08T20:51:13.822884",
+    "logo_number_id": 4
+  },
+  {
+    "id": 32,
+    "jobTitle": "HR Coordinator",
+    "company": "BrightPath",
+    "location": ["United Kingdom"],
+    "industry": "Human Resources",
+    "salary": "$80156",
+    "time": "2025-04-14T19:58:13.822893",
+    "logo_number_id": 2
+  },
+  {
+    "id": 33,
+    "jobTitle": "Program Coordinator",
+    "company": "BlueSky",
+    "location": ["Any Country"],
+    "industry": "Project Management",
+    "salary": "$78804",
+    "time": "2025-04-26T17:50:13.822905",
+    "logo_number_id": 4
+  },
+  {
+    "id": 34,
+    "jobTitle": "Business Intelligence Analyst",
+    "company": "BrightPath",
+    "location": ["Germany"],
+    "industry": "Data Analysis",
+    "salary": "$101081",
+    "time": "2025-05-01T21:33:13.822918",
+    "logo_number_id": 5
+  },
+  {
+    "id": 35,
+    "jobTitle": "Program Coordinator",
+    "company": "BlueSky",
+    "location": ["Any Country"],
+    "industry": "Project Management",
+    "salary": "$95337",
+    "time": "2025-04-16T17:38:13.822935",
+    "logo_number_id": 3
+  },
+  {
+    "id": 36,
+    "jobTitle": "HR Coordinator",
+    "company": "Innova",
+    "location": ["Germany"],
+    "industry": "Human Resources",
+    "salary": "$139663",
+    "time": "2025-04-28T17:47:13.822943",
+    "logo_number_id": 1
+  },
+  {
+    "id": 37,
+    "jobTitle": "Account Executive",
+    "company": "NetPrime",
+    "location": ["Any Country"],
+    "industry": "Sales",
+    "salary": "$67648",
+    "time": "2025-05-04T20:20:13.822950",
+    "logo_number_id": 2
+  },
+  {
+    "id": 38,
+    "jobTitle": "Data Analyst",
+    "company": "BrightPath",
+    "location": ["United Kingdom"],
+    "industry": "Data Analysis",
+    "salary": "$73474",
+    "time": "2025-04-15T23:44:13.822959",
+    "logo_number_id": 6
+  },
+  {
+    "id": 39,
+    "jobTitle": "Quantitative Analyst",
+    "company": "Globex",
+    "location": ["Japan"],
+    "industry": "Data Analysis",
+    "salary": "$68376",
+    "time": "2025-04-19T14:36:13.822966",
+    "logo_number_id": 4
+  },
+  {
+    "id": 40,
+    "jobTitle": "Data Analyst",
+    "company": "Innova",
+    "location": ["Japan"],
+    "industry": "Data Analysis",
+    "salary": "$137127",
+    "time": "2025-04-13T10:41:13.822974",
+    "logo_number_id": 3
+  },
+  {
+    "id": 41,
+    "jobTitle": "Account Executive",
+    "company": "BrightPath",
+    "location": ["United States"],
+    "industry": "Sales",
+    "salary": "$108295",
+    "time": "2025-04-18T17:43:13.822981",
+    "logo_number_id": 3
+  },
+  {
+    "id": 42,
+    "jobTitle": "Data Analyst",
+    "company": "NetPrime",
+    "location": ["United States"],
+    "industry": "Data Analysis",
+    "salary": "$75822",
+    "time": "2025-04-16T10:51:13.822989",
+    "logo_number_id": 2
+  },
+  {
+    "id": 43,
+    "jobTitle": "Business Development Associate",
+    "company": "Globex",
+    "location": ["United Kingdom"],
+    "industry": "Sales",
+    "salary": "$128296",
+    "time": "2025-04-11T18:20:13.822997",
+    "logo_number_id": 2
+  },
+  {
+    "id": 44,
+    "jobTitle": "HR Coordinator",
+    "company": "NextGen",
+    "location": ["India"],
+    "industry": "Human Resources",
+    "salary": "$134594",
+    "time": "2025-04-23T21:53:13.823004",
+    "logo_number_id": 3
+  },
+  {
+    "id": 45,
+    "jobTitle": "Technical Writer",
+    "company": "NextGen",
+    "location": ["Germany"],
+    "industry": "Writing",
+    "salary": "$117759",
+    "time": "2025-04-25T03:46:13.823021",
+    "logo_number_id": 1
+  },
+  {
+    "id": 46,
+    "jobTitle": "Quantitative Analyst",
+    "company": "CoreLogic",
+    "location": ["Any Country"],
+    "industry": "Data Analysis",
+    "salary": "$115841",
+    "time": "2025-04-09T14:28:13.823034",
+    "logo_number_id": 1
+  },
+  {
+    "id": 47,
+    "jobTitle": "Content Writer",
+    "company": "Globex",
+    "location": ["Australia"],
+    "industry": "Writing",
+    "salary": "$72593",
+    "time": "2025-04-12T07:51:13.823046",
+    "logo_number_id": 4
+  },
+  {
+    "id": 48,
+    "jobTitle": "Recruitment Specialist",
+    "company": "BlueSky",
+    "location": ["Australia"],
+    "industry": "Human Resources",
+    "salary": "$94579",
+    "time": "2025-04-12T04:36:13.823070",
+    "logo_number_id": 1
+  },
+  {
+    "id": 49,
+    "jobTitle": "Quantitative Analyst",
+    "company": "BrightPath",
+    "location": ["United States"],
+    "industry": "Data Analysis",
+    "salary": "$108304",
+    "time": "2025-04-25T20:52:13.823081",
+    "logo_number_id": 3
+  },
+  {
+    "id": 50,
+    "jobTitle": "Copywriter",
+    "company": "Visionary Inc",
+    "location": ["Canada"],
+    "industry": "Writing",
+    "salary": "$117389",
+    "time": "2025-04-19T21:47:13.823093",
+    "logo_number_id": 3
+  }
+]

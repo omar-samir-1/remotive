@@ -1,0 +1,120 @@
+.container {
+  border-radius: 15px;
+  border: #eedfc6 2px solid;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+}
+
+.countriesList {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+  column-gap: 20px;
+  row-gap: 25px;
+  align-items: center;
+}
+
+.countryOptionContainer {
+  display: flex;
+  flex-direction: row;
+  width: calc(50% - 10px);
+  gap: 4px;
+}
+
+li {
+  list-style: none;
+  display: flex;
+  align-items: center;
+}
+/* old very small phones */
+@media (max-width: 320px) {
+  .container {
+    gap: 25px;
+    padding: 15px;
+    font-size: 8px;
+    width: 230px;
+  }
+  .container h3 {
+    font-size: 11px;
+  }
+}
+/* Mobile (Small Screens) */
+@media only screen and (min-width: 321px) and (max-width: 480px) {
+  .container {
+    gap: 25px;
+    padding: 15px;
+    font-size: 11px;
+    width: 260px;
+  }
+  .container h3 {
+    font-size: 12px;
+  }
+}
+
+/* Mobile (Medium Screens) */
+@media only screen and (min-width: 481px) and (max-width: 767px) {
+  .container {
+    gap: 25px;
+    padding: 15px;
+    font-size: 12px;
+    width: 260px;
+  }
+  .container h3 {
+    font-size: 13px;
+  }
+}
+
+/* Tablet (Portrait) */
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .container {
+    gap: 25px;
+    padding: 15px;
+    font-size: 13px;
+    width: 280px;
+  }
+  .container h3 {
+    font-size: 14px;
+  }
+}
+
+/* Tablet (Landscape) / Small Laptops */
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+  .container {
+    position: sticky;
+    top: calc(50% - (250px / 2));
+    gap: 25px;
+    margin: 0;
+    margin-top: 25px;
+    padding: 10px;
+    font-size: 13px;
+    width: 25%;
+    max-width: 260px;
+    height: 250px;
+  }
+  .container h3 {
+    font-size: 14px;
+  }
+}
+
+/* Desktop (Large Screens) */
+@media only screen and (min-width: 1200px) {
+  .container {
+    position: sticky;
+    top: calc(50% - (250px / 2));
+    gap: 35px;
+    margin: 0;
+    margin-top: 25px;
+    padding: 13px;
+    font-size: 13px;
+    width: 22%;
+    max-width: 350px;
+    height: 260px;
+  }
+  .container h3 {
+    font-size: 15px;
+  }
+}

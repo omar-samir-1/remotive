@@ -1,0 +1,137 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.suggestionsTitle {
+}
+.searchSuggestionsContainer {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px;
+}
+
+.suggestion {
+  box-sizing: content-box;
+  color: rgb(145 118 107);
+  background-color: #efe8db;
+
+  border-radius: 12px;
+
+  cursor: pointer;
+}
+.suggestion:hover {
+  background-color: rgb(214, 140, 61);
+}
+.selectedSuggestion {
+  background-color: rgb(214, 140, 61);
+  color: rgb(0, 0, 0);
+}
+
+/* old very small phones */
+@media (max-width: 320px) {
+  .container {
+    gap: 15px;
+  }
+  .suggestionsTitle {
+    font-size: 14px;
+  }
+  .searchSuggestionsContainer {
+    width: 280px;
+  }
+  .suggestion {
+    padding: 6px;
+
+    font-size: 11px;
+  }
+}
+
+/* Mobile (Small Screens) */
+@media only screen and (min-width: 321px) and (max-width: 480px) {
+  .container {
+    gap: 15px;
+  }
+  .suggestionsTitle {
+    font-size: 15px;
+  }
+  .searchSuggestionsContainer {
+    width: 290px;
+  }
+  .suggestion {
+    padding: 7px;
+
+    font-size: 12px;
+  }
+}
+
+/* Mobile (Medium Screens) */
+@media only screen and (min-width: 481px) and (max-width: 767px) {
+  .container {
+    gap: 15px;
+  }
+  .suggestionsTitle {
+    font-size: 16px;
+  }
+  .searchSuggestionsContainer {
+    width: 310px;
+  }
+  .suggestion {
+    padding: 7px;
+
+    font-size: 12px;
+  }
+}
+
+/* Tablet (Portrait) */
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .container {
+    gap: 20px;
+  }
+  .suggestionsTitle {
+    font-size: 17px;
+  }
+  .searchSuggestionsContainer {
+    width: 390px;
+  }
+  .suggestion {
+    padding: 7px;
+    font-size: 13px;
+  }
+}
+
+/* Tablet (Landscape) / Small Laptops */
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+  .container {
+    gap: 20px;
+  }
+  .suggestionsTitle {
+    font-size: 18px;
+  }
+  .searchSuggestionsContainer {
+    width: 420px;
+  }
+  .suggestion {
+    padding: 7px;
+    font-size: 14px;
+  }
+}
+
+/* Desktop (Large Screens) */
+@media only screen and (min-width: 1200px) {
+  .container {
+    gap: 20px;
+  }
+  .suggestionsTitle {
+    font-size: 26px;
+  }
+  .searchSuggestionsContainer {
+    width: 460px;
+  }
+  .suggestion {
+    padding: 8px;
+    font-size: 16px;
+  }
+}

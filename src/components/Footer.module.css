@@ -1,0 +1,125 @@
+.container {
+  width: 100%;
+}
+
+.container p {
+  background-color: #f4e9da;
+  text-align: center;
+  box-sizing: content-box;
+  padding: 10px 0;
+}
+
+.footer {
+  background-color: #fbd294;
+  width: 100%;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
+.logo {
+  color: #512a20;
+  transition: all 0.3s ease-in-out;
+  border: 1px solid #512a20;
+  padding: 2px;
+  border-radius: 50%;
+  cursor: pointer;
+}
+.logo:hover {
+  color: #ffffff;
+  transform: rotate(360deg) scale(1.2);
+
+  border: 1px solid white;
+}
+/* old very small phones */
+@media (max-width: 320px) {
+  .container p {
+    font-size: 10px;
+  }
+  .logo {
+    width: 20px;
+    height: 20px;
+    color: #512a20;
+  }
+  .footer {
+    height: 40px;
+  }
+}
+/* Mobile (Small Screens) */
+@media only screen and (min-width: 321px) and (max-width: 480px) {
+  .container p {
+    font-size: 10px;
+  }
+  .logo {
+    width: 20px;
+    height: 20px;
+    color: #512a20;
+  }
+  .footer {
+    height: 40px;
+  }
+}
+
+/* Mobile (Medium Screens) */
+@media only screen and (min-width: 481px) and (max-width: 767px) {
+  .container p {
+    font-size: 11px;
+  }
+  .logo {
+    width: 20px;
+    height: 20px;
+    color: #512a20;
+  }
+  .footer {
+    height: 40px;
+  }
+}
+
+/* Tablet (Portrait) */
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .container p {
+    font-size: 12px;
+  }
+  .logo {
+    width: 23px;
+    height: 23px;
+    color: #512a20;
+  }
+  .footer {
+    height: 45px;
+  }
+}
+
+/* Tablet (Landscape) / Small Laptops */
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+  .container p {
+    font-size: 13px;
+  }
+  .logo {
+    width: 25px;
+    height: 25px;
+    color: #512a20;
+  }
+  .footer {
+    height: 48px;
+  }
+}
+
+/* Desktop (Large Screens) */
+@media only screen and (min-width: 1200px) {
+  .container p {
+    font-size: 14px;
+  }
+  .logo {
+    width: 35px;
+    height: 35px;
+    padding: 5px;
+    color: #512a20;
+  }
+  .footer {
+    height: 60px;
+  }
+}

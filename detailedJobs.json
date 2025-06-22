@@ -1,0 +1,1452 @@
+[
+  {
+    "id": 1,
+    "title": "Full Stack Software Developer",
+    "summary": "Tech Corp is hiring a Full Stack Software Developer. \ud83d\udcb0 Salary: $120000. \ud83d\udccd Location: Any Country.",
+    "description": "Join the Tech Corp team and be a key player in the Software Development industry. Collaborate with professionals from diverse backgrounds while working on impactful projects.",
+    "requirements": [
+      "Relevant degree or equivalent professional experience.",
+      "Proficiency in Software Development tools and technologies.",
+      "Excellent communication, analytical, and problem-solving skills.",
+      "Ability to work independently and collaboratively within a team.",
+      "A passion for continuous learning and innovation in your field."
+    ],
+    "responsibilities": [
+      "Collaborate with cross-functional teams on project initiatives.",
+      "Design, develop, and maintain core features and solutions.",
+      "Participate in regular team meetings, code reviews, and planning sessions.",
+      "Contribute to knowledge-sharing and documentation practices.",
+      "Support continuous improvement initiatives within the organization."
+    ],
+    "company": {
+      "name": "Tech Corp",
+      "about": "Tech Corp is a dynamic company in the Software Development industry, committed to fostering innovation, collaboration, and professional growth for its global workforce."
+    },
+    "industry": "Software Development",
+    "salary": "$120000",
+    "location": ["Any Country"],
+    "date": "2025-05-08T06:30:23.983Z",
+    "logo_number_id": 6
+  },
+  {
+    "id": 2,
+    "title": "Financial Data Analyst",
+    "summary": "DataVision is hiring a Financial Data Analyst. \ud83d\udcb0 Salary: $95000. \ud83d\udccd Location: Canada, United States.",
+    "description": "Join the DataVision team and be a key player in the Finance / Legal industry. Collaborate with professionals from diverse backgrounds while working on impactful projects.",
+    "requirements": [
+      "Relevant degree or equivalent professional experience.",
+      "Proficiency in Finance / Legal tools and technologies.",
+      "Excellent communication, analytical, and problem-solving skills.",
+      "Ability to work independently and collaboratively within a team.",
+      "A passion for continuous learning and innovation in your field."
+    ],
+    "responsibilities": [
+      "Collaborate with cross-functional teams on project initiatives.",
+      "Design, develop, and maintain core features and solutions.",
+      "Participate in regular team meetings, code reviews, and planning sessions.",
+      "Contribute to knowledge-sharing and documentation practices.",
+      "Support continuous improvement initiatives within the organization."
+    ],
+    "company": {
+      "name": "DataVision",
+      "about": "DataVision is a dynamic company in the Finance / Legal industry, committed to fostering innovation, collaboration, and professional growth for its global workforce."
+    },
+    "industry": "Finance / Legal",
+    "salary": "$95000",
+    "location": ["Canada", "United States"],
+    "date": "2025-04-18T10:09:13.822057",
+    "logo_number_id": 1
+  },
+  {
+    "id": 3,
+    "title": "Digital Marketing Manager",
+    "summary": "InnoTech is hiring a Digital Marketing Manager. \ud83d\udcb0 Salary: $130000. \ud83d\udccd Location: Germany.",
+    "description": "Join the InnoTech team and be a key player in the Marketing industry. Collaborate with professionals from diverse backgrounds while working on impactful projects.",
+    "requirements": [
+      "Relevant degree or equivalent professional experience.",
+      "Proficiency in Marketing tools and technologies.",
+      "Excellent communication, analytical, and problem-solving skills.",
+      "Ability to work independently and collaboratively within a team.",
+      "A passion for continuous learning and innovation in your field."
+    ],
+    "responsibilities": [
+      "Collaborate with cross-functional teams on project initiatives.",
+      "Design, develop, and maintain core features and solutions.",
+      "Participate in regular team meetings, code reviews, and planning sessions.",
+      "Contribute to knowledge-sharing and documentation practices.",
+      "Support continuous improvement initiatives within the organization."
+    ],
+    "company": {
+      "name": "InnoTech",
+      "about": "InnoTech is a dynamic company in the Marketing industry, committed to fostering innovation, collaboration, and professional growth for its global workforce."
+    },
+    "industry": "Marketing",
+    "salary": "$130000",
+    "location": ["Germany"],
+    "date": "2025-05-08T02:30:23.983Z",
+    "logo_number_id": 3
+  },
+  {
+    "id": 4,
+    "title": "UI/UX Designer",
+    "summary": "DesignWorks is hiring a UI/UX Designer. \ud83d\udcb0 Salary: $90000. \ud83d\udccd Location: Australia, United Kingdom, Canada.",
+    "description": "Join the DesignWorks team and be a key player in the Design industry. Collaborate with professionals from diverse backgrounds while working on impactful projects.",
+    "requirements": [
+      "Relevant degree or equivalent professional experience.",
+      "Proficiency in Design tools and technologies.",
+      "Excellent communication, analytical, and problem-solving skills.",
+      "Ability to work independently and collaboratively within a team.",
+      "A passion for continuous learning and innovation in your field."
+    ],
+    "responsibilities": [
+      "Collaborate with cross-functional teams on project initiatives.",
+      "Design, develop, and maintain core features and solutions.",
+      "Participate in regular team meetings, code reviews, and planning sessions.",
+      "Contribute to knowledge-sharing and documentation practices.",
+      "Support continuous improvement initiatives within the organization."
+    ],
+    "company": {
+      "name": "DesignWorks",
+      "about": "DesignWorks is a dynamic company in the Design industry, committed to fostering innovation, collaboration, and professional growth for its global workforce."
+    },
+    "industry": "Design",
+    "salary": "$90000",
+    "location": ["Australia", "United Kingdom", "Canada"],
+    "date": "2025-04-28T05:52:13.822084",
+    "logo_number_id": 4
+  },
+  {
+    "id": 5,
+    "title": "DevOps Software Engineer",
+    "summary": "CloudNest is hiring a DevOps Software Engineer. \ud83d\udcb0 Salary: $115000. \ud83d\udccd Location: United Kingdom.",
+    "description": "Join the CloudNest team and be a key player in the Software Development industry. Collaborate with professionals from diverse backgrounds while working on impactful projects.",
+    "requirements": [
+      "Relevant degree or equivalent professional experience.",
+      "Proficiency in Software Development tools and technologies.",
+      "Excellent communication, analytical, and problem-solving skills.",
+      "Ability to work independently and collaboratively within a team.",
+      "A passion for continuous learning and innovation in your field."
+    ],
+    "responsibilities": [
+      "Collaborate with cross-functional teams on project initiatives.",
+      "Design, develop, and maintain core features and solutions.",
+      "Participate in regular team meetings, code reviews, and planning sessions.",
+      "Contribute to knowledge-sharing and documentation practices.",
+      "Support continuous improvement initiatives within the organization."
+    ],
+    "company": {
+      "name": "CloudNest",
+      "about": "CloudNest is a dynamic company in the Software Development industry, committed to fostering innovation, collaboration, and professional growth for its global workforce."
+    },
+    "industry": "Software Development",
+    "salary": "$115000",
+    "location": ["United Kingdom"],
+    "date": "2025-05-08T01:30:23.983Z",
+    "logo_number_id": 5
+  },
+  {
+    "id": 6,
+    "title": "Frontend Web Developer",
+    "summary": "WebWorld is hiring a Frontend Web Developer. \ud83d\udcb0 Salary: $105000. \ud83d\udccd Location: Any Country.",
+    "description": "Join the WebWorld team and be a key player in the Software Development industry. Collaborate with professionals from diverse backgrounds while working on impactful projects.",
+    "requirements": [
+      "Relevant degree or equivalent professional experience.",
+      "Proficiency in Software Development tools and technologies.",
+      "Excellent communication, analytical, and problem-solving skills.",
+      "Ability to work independently and collaboratively within a team.",
+      "A passion for continuous learning and innovation in your field."
+    ],
+    "responsibilities": [
+      "Collaborate with cross-functional teams on project initiatives.",
+      "Design, develop, and maintain core features and solutions.",
+      "Participate in regular team meetings, code reviews, and planning sessions.",
+      "Contribute to knowledge-sharing and documentation practices.",
+      "Support continuous improvement initiatives within the organization."
+    ],
+    "company": {
+      "name": "WebWorld",
+      "about": "WebWorld is a dynamic company in the Software Development industry, committed to fostering innovation, collaboration, and professional growth for its global workforce."
+    },
+    "industry": "Software Development",
+    "salary": "$105000",
+    "location": ["Any Country"],
+    "date": "2025-05-08T08:30:23.983Z",
+    "logo_number_id": 2
+  },
+  {
+    "id": 7,
+    "title": "Backend Systems Developer",
+    "summary": "ServerSide Inc. is hiring a Backend Systems Developer. \ud83d\udcb0 Salary: $110000. \ud83d\udccd Location: Germany, Canada.",
+    "description": "Join the ServerSide Inc. team and be a key player in the Software Development industry. Collaborate with professionals from diverse backgrounds while working on impactful projects.",
+    "requirements": [
+      "Relevant degree or equivalent professional experience.",
+      "Proficiency in Software Development tools and technologies.",
+      "Excellent communication, analytical, and problem-solving skills.",
+      "Ability to work independently and collaboratively within a team.",
+      "A passion for continuous learning and innovation in your field."
+    ],
+    "responsibilities": [
+      "Collaborate with cross-functional teams on project initiatives.",
+      "Design, develop, and maintain core features and solutions.",
+      "Participate in regular team meetings, code reviews, and planning sessions.",
+      "Contribute to knowledge-sharing and documentation practices.",
+      "Support continuous improvement initiatives within the organization."
+    ],
+    "company": {
+      "name": "ServerSide Inc.",
+      "about": "ServerSide Inc. is a dynamic company in the Software Development industry, committed to fostering innovation, collaboration, and professional growth for its global workforce."
+    },
+    "industry": "Software Development",
+    "salary": "$110000",
+    "location": ["Germany", "Canada"],
+    "date": "2025-05-04T20:29:13.822118",
+    "logo_number_id": 2
+  },
+  {
+    "id": 8,
+    "title": "QA Automation Engineer",
+    "summary": "QualityFirst is hiring a QA Automation Engineer. \ud83d\udcb0 Salary: $95000. \ud83d\udccd Location: India.",
+    "description": "Join the QualityFirst team and be a key player in the Software Development industry. Collaborate with professionals from diverse backgrounds while working on impactful projects.",
+    "requirements": [
+      "Relevant degree or equivalent professional experience.",
+      "Proficiency in Software Development tools and technologies.",
+      "Excellent communication, analytical, and problem-solving skills.",
+      "Ability to work independently and collaboratively within a team.",
+      "A passion for continuous learning and innovation in your field."
+    ],
+    "responsibilities": [
+      "Collaborate with cross-functional teams on project initiatives.",
+      "Design, develop, and maintain core features and solutions.",
+      "Participate in regular team meetings, code reviews, and planning sessions.",
+      "Contribute to knowledge-sharing and documentation practices.",
+      "Support continuous improvement initiatives within the organization."
+    ],
+    "company": {
+      "name": "QualityFirst",
+      "about": "QualityFirst is a dynamic company in the Software Development industry, committed to fostering innovation, collaboration, and professional growth for its global workforce."
+    },
+    "industry": "Software Development",
+    "salary": "$95000",
+    "location": ["India"],
+    "date": "2025-04-27T14:25:13.822130",
+    "logo_number_id": 2
+  },
+  {
+    "id": 9,
+    "title": "Security Software Analyst",
+    "summary": "SecureNet is hiring a Security Software Analyst. \ud83d\udcb0 Salary: $125000. \ud83d\udccd Location: Any Country.",
+    "description": "Join the SecureNet team and be a key player in the Software Development industry. Collaborate with professionals from diverse backgrounds while working on impactful projects.",
+    "requirements": [
+      "Relevant degree or equivalent professional experience.",
+      "Proficiency in Software Development tools and technologies.",
+      "Excellent communication, analytical, and problem-solving skills.",
+      "Ability to work independently and collaboratively within a team.",
+      "A passion for continuous learning and innovation in your field."
+    ],
+    "responsibilities": [
+      "Collaborate with cross-functional teams on project initiatives.",
+      "Design, develop, and maintain core features and solutions.",
+      "Participate in regular team meetings, code reviews, and planning sessions.",
+      "Contribute to knowledge-sharing and documentation practices.",
+      "Support continuous improvement initiatives within the organization."
+    ],
+    "company": {
+      "name": "SecureNet",
+      "about": "SecureNet is a dynamic company in the Software Development industry, committed to fostering innovation, collaboration, and professional growth for its global workforce."
+    },
+    "industry": "Software Development",
+    "salary": "$125000",
+    "location": ["Any Country"],
+    "date": "2025-04-18T02:07:13.822140",
+    "logo_number_id": 6
+  },
+  {
+    "id": 10,
+    "title": "Mobile App Developer",
+    "summary": "Appify is hiring a Mobile App Developer. \ud83d\udcb0 Salary: $108000. \ud83d\udccd Location: India, Canada.",
+    "description": "Join the Appify team and be a key player in the Software Development industry. Collaborate with professionals from diverse backgrounds while working on impactful projects.",
+    "requirements": [
+      "Relevant degree or equivalent professional experience.",
+      "Proficiency in Software Development tools and technologies.",
+      "Excellent communication, analytical, and problem-solving skills.",
+      "Ability to work independently and collaboratively within a team.",
+      "A passion for continuous learning and innovation in your field."
+    ],
+    "responsibilities": [
+      "Collaborate with cross-functional teams on project initiatives.",
+      "Design, develop, and maintain core features and solutions.",
+      "Participate in regular team meetings, code reviews, and planning sessions.",
+      "Contribute to knowledge-sharing and documentation practices.",
+      "Support continuous improvement initiatives within the organization."
+    ],
+    "company": {
+      "name": "Appify",
+      "about": "Appify is a dynamic company in the Software Development industry, committed to fostering innovation, collaboration, and professional growth for its global workforce."
+    },
+    "industry": "Software Development",
+    "salary": "$108000",
+    "location": ["India", "Canada"],
+    "date": "2025-05-08T08:36:23.983Z",
+    "logo_number_id": 1
+  },
+  {
+    "id": 11,
+    "title": "AI Software Researcher",
+    "summary": "DeepBrain is hiring a AI Software Researcher. \ud83d\udcb0 Salary: $140000. \ud83d\udccd Location: Japan.",
+    "description": "Join the DeepBrain team and be a key player in the Software Development industry. Collaborate with professionals from diverse backgrounds while working on impactful projects.",
+    "requirements": [
+      "Relevant degree or equivalent professional experience.",
+      "Proficiency in Software Development tools and technologies.",
+      "Excellent communication, analytical, and problem-solving skills.",
+      "Ability to work independently and collaboratively within a team.",
+      "A passion for continuous learning and innovation in your field."
+    ],
+    "responsibilities": [
+      "Collaborate with cross-functional teams on project initiatives.",
+      "Design, develop, and maintain core features and solutions.",
+      "Participate in regular team meetings, code reviews, and planning sessions.",
+      "Contribute to knowledge-sharing and documentation practices.",
+      "Support continuous improvement initiatives within the organization."
+    ],
+    "company": {
+      "name": "DeepBrain",
+      "about": "DeepBrain is a dynamic company in the Software Development industry, committed to fostering innovation, collaboration, and professional growth for its global workforce."
+    },
+    "industry": "Software Development",
+    "salary": "$140000",
+    "location": ["Japan"],
+    "date": "2025-04-17T03:10:13.822158",
+    "logo_number_id": 6
+  },
+  {
+    "id": 12,
+    "title": "Customer Support Specialist",
+    "summary": "TechAssist is hiring a Customer Support Specialist. \ud83d\udcb0 Salary: $70000. \ud83d\udccd Location: India, United States.",
+    "description": "Join the TechAssist team and be a key player in the Customer Service industry. Collaborate with professionals from diverse backgrounds while working on impactful projects.",
+    "requirements": [
+      "Relevant degree or equivalent professional experience.",
+      "Proficiency in Customer Service tools and technologies.",
+      "Excellent communication, analytical, and problem-solving skills.",
+      "Ability to work independently and collaboratively within a team.",
+      "A passion for continuous learning and innovation in your field."
+    ],
+    "responsibilities": [
+      "Collaborate with cross-functional teams on project initiatives.",
+      "Design, develop, and maintain core features and solutions.",
+      "Participate in regular team meetings, code reviews, and planning sessions.",
+      "Contribute to knowledge-sharing and documentation practices.",
+      "Support continuous improvement initiatives within the organization."
+    ],
+    "company": {
+      "name": "TechAssist",
+      "about": "TechAssist is a dynamic company in the Customer Service industry, committed to fostering innovation, collaboration, and professional growth for its global workforce."
+    },
+    "industry": "Customer Service",
+    "salary": "$70000",
+    "location": ["India", "United States"],
+    "date": "2025-05-08T08:20:23.983Z",
+    "logo_number_id": 6
+  },
+  {
+    "id": 13,
+    "title": "Database Developer",
+    "summary": "DataKeepers is hiring a Database Developer. \ud83d\udcb0 Salary: $102000. \ud83d\udccd Location: Australia.",
+    "description": "Join the DataKeepers team and be a key player in the Software Development industry. Collaborate with professionals from diverse backgrounds while working on impactful projects.",
+    "requirements": [
+      "Relevant degree or equivalent professional experience.",
+      "Proficiency in Software Development tools and technologies.",
+      "Excellent communication, analytical, and problem-solving skills.",
+      "Ability to work independently and collaboratively within a team.",
+      "A passion for continuous learning and innovation in your field."
+    ],
+    "responsibilities": [
+      "Collaborate with cross-functional teams on project initiatives.",
+      "Design, develop, and maintain core features and solutions.",
+      "Participate in regular team meetings, code reviews, and planning sessions.",
+      "Contribute to knowledge-sharing and documentation practices.",
+      "Support continuous improvement initiatives within the organization."
+    ],
+    "company": {
+      "name": "DataKeepers",
+      "about": "DataKeepers is a dynamic company in the Software Development industry, committed to fostering innovation, collaboration, and professional growth for its global workforce."
+    },
+    "industry": "Software Development",
+    "salary": "$102000",
+    "location": ["Australia"],
+    "date": "2025-04-14T16:01:13.822175",
+    "logo_number_id": 5
+  },
+  {
+    "id": 14,
+    "title": "Systems Software Analyst",
+    "summary": "SysSolve is hiring a Systems Software Analyst. \ud83d\udcb0 Salary: $98000. \ud83d\udccd Location: India, Germany, Japan.",
+    "description": "Join the SysSolve team and be a key player in the Software Development industry. Collaborate with professionals from diverse backgrounds while working on impactful projects.",
+    "requirements": [
+      "Relevant degree or equivalent professional experience.",
+      "Proficiency in Software Development tools and technologies.",
+      "Excellent communication, analytical, and problem-solving skills.",
+      "Ability to work independently and collaboratively within a team.",
+      "A passion for continuous learning and innovation in your field."
+    ],
+    "responsibilities": [
+      "Collaborate with cross-functional teams on project initiatives.",
+      "Design, develop, and maintain core features and solutions.",
+      "Participate in regular team meetings, code reviews, and planning sessions.",
+      "Contribute to knowledge-sharing and documentation practices.",
+      "Support continuous improvement initiatives within the organization."
+    ],
+    "company": {
+      "name": "SysSolve",
+      "about": "SysSolve is a dynamic company in the Software Development industry, committed to fostering innovation, collaboration, and professional growth for its global workforce."
+    },
+    "industry": "Software Development",
+    "salary": "$98000",
+    "location": ["India", "Germany", "Japan"],
+    "date": "2025-05-02T06:43:13.822184",
+    "logo_number_id": 1
+  },
+  {
+    "id": 15,
+    "title": "Cloud Software Engineer",
+    "summary": "NimbusTech is hiring a Cloud Software Engineer. \ud83d\udcb0 Salary: $120000. \ud83d\udccd Location: Any Country.",
+    "description": "Join the NimbusTech team and be a key player in the Software Development industry. Collaborate with professionals from diverse backgrounds while working on impactful projects.",
+    "requirements": [
+      "Relevant degree or equivalent professional experience.",
+      "Proficiency in Software Development tools and technologies.",
+      "Excellent communication, analytical, and problem-solving skills.",
+      "Ability to work independently and collaboratively within a team.",
+      "A passion for continuous learning and innovation in your field."
+    ],
+    "responsibilities": [
+      "Collaborate with cross-functional teams on project initiatives.",
+      "Design, develop, and maintain core features and solutions.",
+      "Participate in regular team meetings, code reviews, and planning sessions.",
+      "Contribute to knowledge-sharing and documentation practices.",
+      "Support continuous improvement initiatives within the organization."
+    ],
+    "company": {
+      "name": "NimbusTech",
+      "about": "NimbusTech is a dynamic company in the Software Development industry, committed to fostering innovation, collaboration, and professional growth for its global workforce."
+    },
+    "industry": "Software Development",
+    "salary": "$120000",
+    "location": ["Any Country"],
+    "date": "2025-05-08T08:10:23.983Z",
+    "logo_number_id": 5
+  },
+  {
+    "id": 16,
+    "title": "Network Software Engineer",
+    "summary": "ConnectPro is hiring a Network Software Engineer. \ud83d\udcb0 Salary: $97000. \ud83d\udccd Location: United Kingdom.",
+    "description": "Join the ConnectPro team and be a key player in the Software Development industry. Collaborate with professionals from diverse backgrounds while working on impactful projects.",
+    "requirements": [
+      "Relevant degree or equivalent professional experience.",
+      "Proficiency in Software Development tools and technologies.",
+      "Excellent communication, analytical, and problem-solving skills.",
+      "Ability to work independently and collaboratively within a team.",
+      "A passion for continuous learning and innovation in your field."
+    ],
+    "responsibilities": [
+      "Collaborate with cross-functional teams on project initiatives.",
+      "Design, develop, and maintain core features and solutions.",
+      "Participate in regular team meetings, code reviews, and planning sessions.",
+      "Contribute to knowledge-sharing and documentation practices.",
+      "Support continuous improvement initiatives within the organization."
+    ],
+    "company": {
+      "name": "ConnectPro",
+      "about": "ConnectPro is a dynamic company in the Software Development industry, committed to fostering innovation, collaboration, and professional growth for its global workforce."
+    },
+    "industry": "Software Development",
+    "salary": "$97000",
+    "location": ["United Kingdom"],
+    "date": "2025-04-20T00:20:13.822200",
+    "logo_number_id": 4
+  },
+  {
+    "id": 17,
+    "title": "Machine Learning Developer",
+    "summary": "SmartPredict is hiring a Machine Learning Developer. \ud83d\udcb0 Salary: $135000. \ud83d\udccd Location: Japan, Germany.",
+    "description": "Join the SmartPredict team and be a key player in the Software Development industry. Collaborate with professionals from diverse backgrounds while working on impactful projects.",
+    "requirements": [
+      "Relevant degree or equivalent professional experience.",
+      "Proficiency in Software Development tools and technologies.",
+      "Excellent communication, analytical, and problem-solving skills.",
+      "Ability to work independently and collaboratively within a team.",
+      "A passion for continuous learning and innovation in your field."
+    ],
+    "responsibilities": [
+      "Collaborate with cross-functional teams on project initiatives.",
+      "Design, develop, and maintain core features and solutions.",
+      "Participate in regular team meetings, code reviews, and planning sessions.",
+      "Contribute to knowledge-sharing and documentation practices.",
+      "Support continuous improvement initiatives within the organization."
+    ],
+    "company": {
+      "name": "SmartPredict",
+      "about": "SmartPredict is a dynamic company in the Software Development industry, committed to fostering innovation, collaboration, and professional growth for its global workforce."
+    },
+    "industry": "Software Development",
+    "salary": "$135000",
+    "location": ["Japan", "Germany"],
+    "date": "2025-05-01T08:03:13.822208",
+    "logo_number_id": 1
+  },
+  {
+    "id": 18,
+    "title": "Software Engineering Consultant",
+    "summary": "StackFlow is hiring a Software Engineering Consultant. \ud83d\udcb0 Salary: $112000. \ud83d\udccd Location: Canada.",
+    "description": "Join the StackFlow team and be a key player in the Software Development industry. Collaborate with professionals from diverse backgrounds while working on impactful projects.",
+    "requirements": [
+      "Relevant degree or equivalent professional experience.",
+      "Proficiency in Software Development tools and technologies.",
+      "Excellent communication, analytical, and problem-solving skills.",
+      "Ability to work independently and collaboratively within a team.",
+      "A passion for continuous learning and innovation in your field."
+    ],
+    "responsibilities": [
+      "Collaborate with cross-functional teams on project initiatives.",
+      "Design, develop, and maintain core features and solutions.",
+      "Participate in regular team meetings, code reviews, and planning sessions.",
+      "Contribute to knowledge-sharing and documentation practices.",
+      "Support continuous improvement initiatives within the organization."
+    ],
+    "company": {
+      "name": "StackFlow",
+      "about": "StackFlow is a dynamic company in the Software Development industry, committed to fostering innovation, collaboration, and professional growth for its global workforce."
+    },
+    "industry": "Software Development",
+    "salary": "$112000",
+    "location": ["Canada"],
+    "date": "2025-04-27T09:45:13.822216",
+    "logo_number_id": 1
+  },
+  {
+    "id": 19,
+    "title": "Business Finance Analyst",
+    "summary": "BizInsights is hiring a Business Finance Analyst. \ud83d\udcb0 Salary: $92000. \ud83d\udccd Location: Germany, United States.",
+    "description": "Join the BizInsights team and be a key player in the Finance / Legal industry. Collaborate with professionals from diverse backgrounds while working on impactful projects.",
+    "requirements": [
+      "Relevant degree or equivalent professional experience.",
+      "Proficiency in Finance / Legal tools and technologies.",
+      "Excellent communication, analytical, and problem-solving skills.",
+      "Ability to work independently and collaboratively within a team.",
+      "A passion for continuous learning and innovation in your field."
+    ],
+    "responsibilities": [
+      "Collaborate with cross-functional teams on project initiatives.",
+      "Design, develop, and maintain core features and solutions.",
+      "Participate in regular team meetings, code reviews, and planning sessions.",
+      "Contribute to knowledge-sharing and documentation practices.",
+      "Support continuous improvement initiatives within the organization."
+    ],
+    "company": {
+      "name": "BizInsights",
+      "about": "BizInsights is a dynamic company in the Finance / Legal industry, committed to fostering innovation, collaboration, and professional growth for its global workforce."
+    },
+    "industry": "Finance / Legal",
+    "salary": "$92000",
+    "location": ["Germany", "United States"],
+    "date": "2025-05-05T06:36:13.822224",
+    "logo_number_id": 1
+  },
+  {
+    "id": 20,
+    "title": "Customer Documentation Specialist",
+    "summary": "DocuPro is hiring a Customer Documentation Specialist. \ud83d\udcb0 Salary: $85000. \ud83d\udccd Location: India.",
+    "description": "Join the DocuPro team and be a key player in the Customer Service industry. Collaborate with professionals from diverse backgrounds while working on impactful projects.",
+    "requirements": [
+      "Relevant degree or equivalent professional experience.",
+      "Proficiency in Customer Service tools and technologies.",
+      "Excellent communication, analytical, and problem-solving skills.",
+      "Ability to work independently and collaboratively within a team.",
+      "A passion for continuous learning and innovation in your field."
+    ],
+    "responsibilities": [
+      "Collaborate with cross-functional teams on project initiatives.",
+      "Design, develop, and maintain core features and solutions.",
+      "Participate in regular team meetings, code reviews, and planning sessions.",
+      "Contribute to knowledge-sharing and documentation practices.",
+      "Support continuous improvement initiatives within the organization."
+    ],
+    "company": {
+      "name": "DocuPro",
+      "about": "DocuPro is a dynamic company in the Customer Service industry, committed to fostering innovation, collaboration, and professional growth for its global workforce."
+    },
+    "industry": "Customer Service",
+    "salary": "$85000",
+    "location": ["India"],
+    "date": "2025-05-08T07:00:23.983Z",
+    "logo_number_id": 2
+  },
+  {
+    "id": 21,
+    "title": "Project Manager",
+    "summary": "CoreLogic is hiring a Project Manager. \ud83d\udcb0 Salary: $133029. \ud83d\udccd Location: Germany.",
+    "description": "Join the CoreLogic team and be a key player in the Project Management industry. Collaborate with professionals from diverse backgrounds while working on impactful projects.",
+    "requirements": [
+      "Relevant degree or equivalent professional experience.",
+      "Proficiency in Project Management tools and technologies.",
+      "Excellent communication, analytical, and problem-solving skills.",
+      "Ability to work independently and collaboratively within a team.",
+      "A passion for continuous learning and innovation in your field."
+    ],
+    "responsibilities": [
+      "Collaborate with cross-functional teams on project initiatives.",
+      "Design, develop, and maintain core features and solutions.",
+      "Participate in regular team meetings, code reviews, and planning sessions.",
+      "Contribute to knowledge-sharing and documentation practices.",
+      "Support continuous improvement initiatives within the organization."
+    ],
+    "company": {
+      "name": "CoreLogic",
+      "about": "CoreLogic is a dynamic company in the Project Management industry, committed to fostering innovation, collaboration, and professional growth for its global workforce."
+    },
+    "industry": "Project Management",
+    "salary": "$133029",
+    "location": ["Germany"],
+    "date": "2025-04-14T16:21:13.822758",
+    "logo_number_id": 2
+  },
+  {
+    "id": 22,
+    "title": "Project Manager",
+    "summary": "BlueSky is hiring a Project Manager. \ud83d\udcb0 Salary: $105033. \ud83d\udccd Location: Canada.",
+    "description": "Join the BlueSky team and be a key player in the Project Management industry. Collaborate with professionals from diverse backgrounds while working on impactful projects.",
+    "requirements": [
+      "Relevant degree or equivalent professional experience.",
+      "Proficiency in Project Management tools and technologies.",
+      "Excellent communication, analytical, and problem-solving skills.",
+      "Ability to work independently and collaboratively within a team.",
+      "A passion for continuous learning and innovation in your field."
+    ],
+    "responsibilities": [
+      "Collaborate with cross-functional teams on project initiatives.",
+      "Design, develop, and maintain core features and solutions.",
+      "Participate in regular team meetings, code reviews, and planning sessions.",
+      "Contribute to knowledge-sharing and documentation practices.",
+      "Support continuous improvement initiatives within the organization."
+    ],
+    "company": {
+      "name": "BlueSky",
+      "about": "BlueSky is a dynamic company in the Project Management industry, committed to fostering innovation, collaboration, and professional growth for its global workforce."
+    },
+    "industry": "Project Management",
+    "salary": "$105033",
+    "location": ["Canada"],
+    "date": "2025-04-11T14:28:13.822776",
+    "logo_number_id": 5
+  },
+  {
+    "id": 23,
+    "title": "Business Development Associate",
+    "summary": "CoreLogic is hiring a Business Development Associate. \ud83d\udcb0 Salary: $119369. \ud83d\udccd Location: Germany.",
+    "description": "Join the CoreLogic team and be a key player in the Sales industry. Collaborate with professionals from diverse backgrounds while working on impactful projects.",
+    "requirements": [
+      "Relevant degree or equivalent professional experience.",
+      "Proficiency in Sales tools and technologies.",
+      "Excellent communication, analytical, and problem-solving skills.",
+      "Ability to work independently and collaboratively within a team.",
+      "A passion for continuous learning and innovation in your field."
+    ],
+    "responsibilities": [
+      "Collaborate with cross-functional teams on project initiatives.",
+      "Design, develop, and maintain core features and solutions.",
+      "Participate in regular team meetings, code reviews, and planning sessions.",
+      "Contribute to knowledge-sharing and documentation practices.",
+      "Support continuous improvement initiatives within the organization."
+    ],
+    "company": {
+      "name": "CoreLogic",
+      "about": "CoreLogic is a dynamic company in the Sales industry, committed to fostering innovation, collaboration, and professional growth for its global workforce."
+    },
+    "industry": "Sales",
+    "salary": "$119369",
+    "location": ["Germany"],
+    "date": "2025-05-05T19:34:13.822790",
+    "logo_number_id": 5
+  },
+  {
+    "id": 24,
+    "title": "Sales Representative",
+    "summary": "BlueSky is hiring a Sales Representative. \ud83d\udcb0 Salary: $75394. \ud83d\udccd Location: Australia.",
+    "description": "Join the BlueSky team and be a key player in the Sales industry. Collaborate with professionals from diverse backgrounds while working on impactful projects.",
+    "requirements": [
+      "Relevant degree or equivalent professional experience.",
+      "Proficiency in Sales tools and technologies.",
+      "Excellent communication, analytical, and problem-solving skills.",
+      "Ability to work independently and collaboratively within a team.",
+      "A passion for continuous learning and innovation in your field."
+    ],
+    "responsibilities": [
+      "Collaborate with cross-functional teams on project initiatives.",
+      "Design, develop, and maintain core features and solutions.",
+      "Participate in regular team meetings, code reviews, and planning sessions.",
+      "Contribute to knowledge-sharing and documentation practices.",
+      "Support continuous improvement initiatives within the organization."
+    ],
+    "company": {
+      "name": "BlueSky",
+      "about": "BlueSky is a dynamic company in the Sales industry, committed to fostering innovation, collaboration, and professional growth for its global workforce."
+    },
+    "industry": "Sales",
+    "salary": "$75394",
+    "location": ["Australia"],
+    "date": "2025-04-26T19:22:13.822802",
+    "logo_number_id": 1
+  },
+  {
+    "id": 25,
+    "title": "Account Executive",
+    "summary": "CoreLogic is hiring a Account Executive. \ud83d\udcb0 Salary: $79039. \ud83d\udccd Location: Germany.",
+    "description": "Join the CoreLogic team and be a key player in the Sales industry. Collaborate with professionals from diverse backgrounds while working on impactful projects.",
+    "requirements": [
+      "Relevant degree or equivalent professional experience.",
+      "Proficiency in Sales tools and technologies.",
+      "Excellent communication, analytical, and problem-solving skills.",
+      "Ability to work independently and collaboratively within a team.",
+      "A passion for continuous learning and innovation in your field."
+    ],
+    "responsibilities": [
+      "Collaborate with cross-functional teams on project initiatives.",
+      "Design, develop, and maintain core features and solutions.",
+      "Participate in regular team meetings, code reviews, and planning sessions.",
+      "Contribute to knowledge-sharing and documentation practices.",
+      "Support continuous improvement initiatives within the organization."
+    ],
+    "company": {
+      "name": "CoreLogic",
+      "about": "CoreLogic is a dynamic company in the Sales industry, committed to fostering innovation, collaboration, and professional growth for its global workforce."
+    },
+    "industry": "Sales",
+    "salary": "$79039",
+    "location": ["Germany"],
+    "date": "2025-04-12T07:48:13.822816",
+    "logo_number_id": 5
+  },
+  {
+    "id": 26,
+    "title": "Sales Representative",
+    "summary": "BrightPath is hiring a Sales Representative. \ud83d\udcb0 Salary: $114645. \ud83d\udccd Location: India.",
+    "description": "Join the BrightPath team and be a key player in the Sales industry. Collaborate with professionals from diverse backgrounds while working on impactful projects.",
+    "requirements": [
+      "Relevant degree or equivalent professional experience.",
+      "Proficiency in Sales tools and technologies.",
+      "Excellent communication, analytical, and problem-solving skills.",
+      "Ability to work independently and collaboratively within a team.",
+      "A passion for continuous learning and innovation in your field."
+    ],
+    "responsibilities": [
+      "Collaborate with cross-functional teams on project initiatives.",
+      "Design, develop, and maintain core features and solutions.",
+      "Participate in regular team meetings, code reviews, and planning sessions.",
+      "Contribute to knowledge-sharing and documentation practices.",
+      "Support continuous improvement initiatives within the organization."
+    ],
+    "company": {
+      "name": "BrightPath",
+      "about": "BrightPath is a dynamic company in the Sales industry, committed to fostering innovation, collaboration, and professional growth for its global workforce."
+    },
+    "industry": "Sales",
+    "salary": "$114645",
+    "location": ["India"],
+    "date": "2025-05-08T02:36:13.822830",
+    "logo_number_id": 2
+  },
+  {
+    "id": 27,
+    "title": "Copywriter",
+    "summary": "Innova is hiring a Copywriter. \ud83d\udcb0 Salary: $134071. \ud83d\udccd Location: Canada.",
+    "description": "Join the Innova team and be a key player in the Writing industry. Collaborate with professionals from diverse backgrounds while working on impactful projects.",
+    "requirements": [
+      "Relevant degree or equivalent professional experience.",
+      "Proficiency in Writing tools and technologies.",
+      "Excellent communication, analytical, and problem-solving skills.",
+      "Ability to work independently and collaboratively within a team.",
+      "A passion for continuous learning and innovation in your field."
+    ],
+    "responsibilities": [
+      "Collaborate with cross-functional teams on project initiatives.",
+      "Design, develop, and maintain core features and solutions.",
+      "Participate in regular team meetings, code reviews, and planning sessions.",
+      "Contribute to knowledge-sharing and documentation practices.",
+      "Support continuous improvement initiatives within the organization."
+    ],
+    "company": {
+      "name": "Innova",
+      "about": "Innova is a dynamic company in the Writing industry, committed to fostering innovation, collaboration, and professional growth for its global workforce."
+    },
+    "industry": "Writing",
+    "salary": "$134071",
+    "location": ["Canada"],
+    "date": "2025-04-16T11:19:13.822842",
+    "logo_number_id": 6
+  },
+  {
+    "id": 28,
+    "title": "Program Coordinator",
+    "summary": "BrightPath is hiring a Program Coordinator. \ud83d\udcb0 Salary: $123691. \ud83d\udccd Location: Any Country.",
+    "description": "Join the BrightPath team and be a key player in the Project Management industry. Collaborate with professionals from diverse backgrounds while working on impactful projects.",
+    "requirements": [
+      "Relevant degree or equivalent professional experience.",
+      "Proficiency in Project Management tools and technologies.",
+      "Excellent communication, analytical, and problem-solving skills.",
+      "Ability to work independently and collaboratively within a team.",
+      "A passion for continuous learning and innovation in your field."
+    ],
+    "responsibilities": [
+      "Collaborate with cross-functional teams on project initiatives.",
+      "Design, develop, and maintain core features and solutions.",
+      "Participate in regular team meetings, code reviews, and planning sessions.",
+      "Contribute to knowledge-sharing and documentation practices.",
+      "Support continuous improvement initiatives within the organization."
+    ],
+    "company": {
+      "name": "BrightPath",
+      "about": "BrightPath is a dynamic company in the Project Management industry, committed to fostering innovation, collaboration, and professional growth for its global workforce."
+    },
+    "industry": "Project Management",
+    "salary": "$123691",
+    "location": ["Any Country"],
+    "date": "2025-04-25T08:15:13.822859",
+    "logo_number_id": 6
+  },
+  {
+    "id": 29,
+    "title": "Business Intelligence Analyst",
+    "summary": "Visionary Inc is hiring a Business Intelligence Analyst. \ud83d\udcb0 Salary: $68815. \ud83d\udccd Location: United States.",
+    "description": "Join the Visionary Inc team and be a key player in the Data Analysis industry. Collaborate with professionals from diverse backgrounds while working on impactful projects.",
+    "requirements": [
+      "Relevant degree or equivalent professional experience.",
+      "Proficiency in Data Analysis tools and technologies.",
+      "Excellent communication, analytical, and problem-solving skills.",
+      "Ability to work independently and collaboratively within a team.",
+      "A passion for continuous learning and innovation in your field."
+    ],
+    "responsibilities": [
+      "Collaborate with cross-functional teams on project initiatives.",
+      "Design, develop, and maintain core features and solutions.",
+      "Participate in regular team meetings, code reviews, and planning sessions.",
+      "Contribute to knowledge-sharing and documentation practices.",
+      "Support continuous improvement initiatives within the organization."
+    ],
+    "company": {
+      "name": "Visionary Inc",
+      "about": "Visionary Inc is a dynamic company in the Data Analysis industry, committed to fostering innovation, collaboration, and professional growth for its global workforce."
+    },
+    "industry": "Data Analysis",
+    "salary": "$68815",
+    "location": ["United States"],
+    "date": "2025-05-04T06:23:13.822868",
+    "logo_number_id": 6
+  },
+  {
+    "id": 30,
+    "title": "Content Writer",
+    "summary": "NextGen is hiring a Content Writer. \ud83d\udcb0 Salary: $64547. \ud83d\udccd Location: Germany.",
+    "description": "Join the NextGen team and be a key player in the Writing industry. Collaborate with professionals from diverse backgrounds while working on impactful projects.",
+    "requirements": [
+      "Relevant degree or equivalent professional experience.",
+      "Proficiency in Writing tools and technologies.",
+      "Excellent communication, analytical, and problem-solving skills.",
+      "Ability to work independently and collaboratively within a team.",
+      "A passion for continuous learning and innovation in your field."
+    ],
+    "responsibilities": [
+      "Collaborate with cross-functional teams on project initiatives.",
+      "Design, develop, and maintain core features and solutions.",
+      "Participate in regular team meetings, code reviews, and planning sessions.",
+      "Contribute to knowledge-sharing and documentation practices.",
+      "Support continuous improvement initiatives within the organization."
+    ],
+    "company": {
+      "name": "NextGen",
+      "about": "NextGen is a dynamic company in the Writing industry, committed to fostering innovation, collaboration, and professional growth for its global workforce."
+    },
+    "industry": "Writing",
+    "salary": "$64547",
+    "location": ["Germany"],
+    "date": "2025-04-24T05:55:13.822876",
+    "logo_number_id": 5
+  },
+  {
+    "id": 31,
+    "title": "Data Analyst",
+    "summary": "NextGen is hiring a Data Analyst. \ud83d\udcb0 Salary: $86295. \ud83d\udccd Location: Australia.",
+    "description": "Join the NextGen team and be a key player in the Data Analysis industry. Collaborate with professionals from diverse backgrounds while working on impactful projects.",
+    "requirements": [
+      "Relevant degree or equivalent professional experience.",
+      "Proficiency in Data Analysis tools and technologies.",
+      "Excellent communication, analytical, and problem-solving skills.",
+      "Ability to work independently and collaboratively within a team.",
+      "A passion for continuous learning and innovation in your field."
+    ],
+    "responsibilities": [
+      "Collaborate with cross-functional teams on project initiatives.",
+      "Design, develop, and maintain core features and solutions.",
+      "Participate in regular team meetings, code reviews, and planning sessions.",
+      "Contribute to knowledge-sharing and documentation practices.",
+      "Support continuous improvement initiatives within the organization."
+    ],
+    "company": {
+      "name": "NextGen",
+      "about": "NextGen is a dynamic company in the Data Analysis industry, committed to fostering innovation, collaboration, and professional growth for its global workforce."
+    },
+    "industry": "Data Analysis",
+    "salary": "$86295",
+    "location": ["Australia"],
+    "date": "2025-04-08T20:51:13.822884",
+    "logo_number_id": 4
+  },
+  {
+    "id": 32,
+    "title": "HR Coordinator",
+    "summary": "BrightPath is hiring a HR Coordinator. \ud83d\udcb0 Salary: $80156. \ud83d\udccd Location: United Kingdom.",
+    "description": "Join the BrightPath team and be a key player in the Human Resources industry. Collaborate with professionals from diverse backgrounds while working on impactful projects.",
+    "requirements": [
+      "Relevant degree or equivalent professional experience.",
+      "Proficiency in Human Resources tools and technologies.",
+      "Excellent communication, analytical, and problem-solving skills.",
+      "Ability to work independently and collaboratively within a team.",
+      "A passion for continuous learning and innovation in your field."
+    ],
+    "responsibilities": [
+      "Collaborate with cross-functional teams on project initiatives.",
+      "Design, develop, and maintain core features and solutions.",
+      "Participate in regular team meetings, code reviews, and planning sessions.",
+      "Contribute to knowledge-sharing and documentation practices.",
+      "Support continuous improvement initiatives within the organization."
+    ],
+    "company": {
+      "name": "BrightPath",
+      "about": "BrightPath is a dynamic company in the Human Resources industry, committed to fostering innovation, collaboration, and professional growth for its global workforce."
+    },
+    "industry": "Human Resources",
+    "salary": "$80156",
+    "location": ["United Kingdom"],
+    "date": "2025-04-14T19:58:13.822893",
+    "logo_number_id": 2
+  },
+  {
+    "id": 33,
+    "title": "Program Coordinator",
+    "summary": "BlueSky is hiring a Program Coordinator. \ud83d\udcb0 Salary: $78804. \ud83d\udccd Location: Any Country.",
+    "description": "Join the BlueSky team and be a key player in the Project Management industry. Collaborate with professionals from diverse backgrounds while working on impactful projects.",
+    "requirements": [
+      "Relevant degree or equivalent professional experience.",
+      "Proficiency in Project Management tools and technologies.",
+      "Excellent communication, analytical, and problem-solving skills.",
+      "Ability to work independently and collaboratively within a team.",
+      "A passion for continuous learning and innovation in your field."
+    ],
+    "responsibilities": [
+      "Collaborate with cross-functional teams on project initiatives.",
+      "Design, develop, and maintain core features and solutions.",
+      "Participate in regular team meetings, code reviews, and planning sessions.",
+      "Contribute to knowledge-sharing and documentation practices.",
+      "Support continuous improvement initiatives within the organization."
+    ],
+    "company": {
+      "name": "BlueSky",
+      "about": "BlueSky is a dynamic company in the Project Management industry, committed to fostering innovation, collaboration, and professional growth for its global workforce."
+    },
+    "industry": "Project Management",
+    "salary": "$78804",
+    "location": ["Any Country"],
+    "date": "2025-04-26T17:50:13.822905",
+    "logo_number_id": 4
+  },
+  {
+    "id": 34,
+    "title": "Business Intelligence Analyst",
+    "summary": "BrightPath is hiring a Business Intelligence Analyst. \ud83d\udcb0 Salary: $101081. \ud83d\udccd Location: Germany.",
+    "description": "Join the BrightPath team and be a key player in the Data Analysis industry. Collaborate with professionals from diverse backgrounds while working on impactful projects.",
+    "requirements": [
+      "Relevant degree or equivalent professional experience.",
+      "Proficiency in Data Analysis tools and technologies.",
+      "Excellent communication, analytical, and problem-solving skills.",
+      "Ability to work independently and collaboratively within a team.",
+      "A passion for continuous learning and innovation in your field."
+    ],
+    "responsibilities": [
+      "Collaborate with cross-functional teams on project initiatives.",
+      "Design, develop, and maintain core features and solutions.",
+      "Participate in regular team meetings, code reviews, and planning sessions.",
+      "Contribute to knowledge-sharing and documentation practices.",
+      "Support continuous improvement initiatives within the organization."
+    ],
+    "company": {
+      "name": "BrightPath",
+      "about": "BrightPath is a dynamic company in the Data Analysis industry, committed to fostering innovation, collaboration, and professional growth for its global workforce."
+    },
+    "industry": "Data Analysis",
+    "salary": "$101081",
+    "location": ["Germany"],
+    "date": "2025-05-01T21:33:13.822918",
+    "logo_number_id": 5
+  },
+  {
+    "id": 35,
+    "title": "Program Coordinator",
+    "summary": "BlueSky is hiring a Program Coordinator. \ud83d\udcb0 Salary: $95337. \ud83d\udccd Location: Any Country.",
+    "description": "Join the BlueSky team and be a key player in the Project Management industry. Collaborate with professionals from diverse backgrounds while working on impactful projects.",
+    "requirements": [
+      "Relevant degree or equivalent professional experience.",
+      "Proficiency in Project Management tools and technologies.",
+      "Excellent communication, analytical, and problem-solving skills.",
+      "Ability to work independently and collaboratively within a team.",
+      "A passion for continuous learning and innovation in your field."
+    ],
+    "responsibilities": [
+      "Collaborate with cross-functional teams on project initiatives.",
+      "Design, develop, and maintain core features and solutions.",
+      "Participate in regular team meetings, code reviews, and planning sessions.",
+      "Contribute to knowledge-sharing and documentation practices.",
+      "Support continuous improvement initiatives within the organization."
+    ],
+    "company": {
+      "name": "BlueSky",
+      "about": "BlueSky is a dynamic company in the Project Management industry, committed to fostering innovation, collaboration, and professional growth for its global workforce."
+    },
+    "industry": "Project Management",
+    "salary": "$95337",
+    "location": ["Any Country"],
+    "date": "2025-04-16T17:38:13.822935",
+    "logo_number_id": 3
+  },
+  {
+    "id": 36,
+    "title": "HR Coordinator",
+    "summary": "Innova is hiring a HR Coordinator. \ud83d\udcb0 Salary: $139663. \ud83d\udccd Location: Germany.",
+    "description": "Join the Innova team and be a key player in the Human Resources industry. Collaborate with professionals from diverse backgrounds while working on impactful projects.",
+    "requirements": [
+      "Relevant degree or equivalent professional experience.",
+      "Proficiency in Human Resources tools and technologies.",
+      "Excellent communication, analytical, and problem-solving skills.",
+      "Ability to work independently and collaboratively within a team.",
+      "A passion for continuous learning and innovation in your field."
+    ],
+    "responsibilities": [
+      "Collaborate with cross-functional teams on project initiatives.",
+      "Design, develop, and maintain core features and solutions.",
+      "Participate in regular team meetings, code reviews, and planning sessions.",
+      "Contribute to knowledge-sharing and documentation practices.",
+      "Support continuous improvement initiatives within the organization."
+    ],
+    "company": {
+      "name": "Innova",
+      "about": "Innova is a dynamic company in the Human Resources industry, committed to fostering innovation, collaboration, and professional growth for its global workforce."
+    },
+    "industry": "Human Resources",
+    "salary": "$139663",
+    "location": ["Germany"],
+    "date": "2025-04-28T17:47:13.822943",
+    "logo_number_id": 1
+  },
+  {
+    "id": 37,
+    "title": "Account Executive",
+    "summary": "NetPrime is hiring a Account Executive. \ud83d\udcb0 Salary: $67648. \ud83d\udccd Location: Any Country.",
+    "description": "Join the NetPrime team and be a key player in the Sales industry. Collaborate with professionals from diverse backgrounds while working on impactful projects.",
+    "requirements": [
+      "Relevant degree or equivalent professional experience.",
+      "Proficiency in Sales tools and technologies.",
+      "Excellent communication, analytical, and problem-solving skills.",
+      "Ability to work independently and collaboratively within a team.",
+      "A passion for continuous learning and innovation in your field."
+    ],
+    "responsibilities": [
+      "Collaborate with cross-functional teams on project initiatives.",
+      "Design, develop, and maintain core features and solutions.",
+      "Participate in regular team meetings, code reviews, and planning sessions.",
+      "Contribute to knowledge-sharing and documentation practices.",
+      "Support continuous improvement initiatives within the organization."
+    ],
+    "company": {
+      "name": "NetPrime",
+      "about": "NetPrime is a dynamic company in the Sales industry, committed to fostering innovation, collaboration, and professional growth for its global workforce."
+    },
+    "industry": "Sales",
+    "salary": "$67648",
+    "location": ["Any Country"],
+    "date": "2025-05-04T20:20:13.822950",
+    "logo_number_id": 2
+  },
+  {
+    "id": 38,
+    "title": "Data Analyst",
+    "summary": "BrightPath is hiring a Data Analyst. \ud83d\udcb0 Salary: $73474. \ud83d\udccd Location: United Kingdom.",
+    "description": "Join the BrightPath team and be a key player in the Data Analysis industry. Collaborate with professionals from diverse backgrounds while working on impactful projects.",
+    "requirements": [
+      "Relevant degree or equivalent professional experience.",
+      "Proficiency in Data Analysis tools and technologies.",
+      "Excellent communication, analytical, and problem-solving skills.",
+      "Ability to work independently and collaboratively within a team.",
+      "A passion for continuous learning and innovation in your field."
+    ],
+    "responsibilities": [
+      "Collaborate with cross-functional teams on project initiatives.",
+      "Design, develop, and maintain core features and solutions.",
+      "Participate in regular team meetings, code reviews, and planning sessions.",
+      "Contribute to knowledge-sharing and documentation practices.",
+      "Support continuous improvement initiatives within the organization."
+    ],
+    "company": {
+      "name": "BrightPath",
+      "about": "BrightPath is a dynamic company in the Data Analysis industry, committed to fostering innovation, collaboration, and professional growth for its global workforce."
+    },
+    "industry": "Data Analysis",
+    "salary": "$73474",
+    "location": ["United Kingdom"],
+    "date": "2025-04-15T23:44:13.822959",
+    "logo_number_id": 6
+  },
+  {
+    "id": 39,
+    "title": "Quantitative Analyst",
+    "summary": "Globex is hiring a Quantitative Analyst. \ud83d\udcb0 Salary: $68376. \ud83d\udccd Location: Japan.",
+    "description": "Join the Globex team and be a key player in the Data Analysis industry. Collaborate with professionals from diverse backgrounds while working on impactful projects.",
+    "requirements": [
+      "Relevant degree or equivalent professional experience.",
+      "Proficiency in Data Analysis tools and technologies.",
+      "Excellent communication, analytical, and problem-solving skills.",
+      "Ability to work independently and collaboratively within a team.",
+      "A passion for continuous learning and innovation in your field."
+    ],
+    "responsibilities": [
+      "Collaborate with cross-functional teams on project initiatives.",
+      "Design, develop, and maintain core features and solutions.",
+      "Participate in regular team meetings, code reviews, and planning sessions.",
+      "Contribute to knowledge-sharing and documentation practices.",
+      "Support continuous improvement initiatives within the organization."
+    ],
+    "company": {
+      "name": "Globex",
+      "about": "Globex is a dynamic company in the Data Analysis industry, committed to fostering innovation, collaboration, and professional growth for its global workforce."
+    },
+    "industry": "Data Analysis",
+    "salary": "$68376",
+    "location": ["Japan"],
+    "date": "2025-04-19T14:36:13.822966",
+    "logo_number_id": 4
+  },
+  {
+    "id": 40,
+    "title": "Data Analyst",
+    "summary": "Innova is hiring a Data Analyst. \ud83d\udcb0 Salary: $137127. \ud83d\udccd Location: Japan.",
+    "description": "Join the Innova team and be a key player in the Data Analysis industry. Collaborate with professionals from diverse backgrounds while working on impactful projects.",
+    "requirements": [
+      "Relevant degree or equivalent professional experience.",
+      "Proficiency in Data Analysis tools and technologies.",
+      "Excellent communication, analytical, and problem-solving skills.",
+      "Ability to work independently and collaboratively within a team.",
+      "A passion for continuous learning and innovation in your field."
+    ],
+    "responsibilities": [
+      "Collaborate with cross-functional teams on project initiatives.",
+      "Design, develop, and maintain core features and solutions.",
+      "Participate in regular team meetings, code reviews, and planning sessions.",
+      "Contribute to knowledge-sharing and documentation practices.",
+      "Support continuous improvement initiatives within the organization."
+    ],
+    "company": {
+      "name": "Innova",
+      "about": "Innova is a dynamic company in the Data Analysis industry, committed to fostering innovation, collaboration, and professional growth for its global workforce."
+    },
+    "industry": "Data Analysis",
+    "salary": "$137127",
+    "location": ["Japan"],
+    "date": "2025-04-13T10:41:13.822974",
+    "logo_number_id": 3
+  },
+  {
+    "id": 41,
+    "title": "Account Executive",
+    "summary": "BrightPath is hiring a Account Executive. \ud83d\udcb0 Salary: $108295. \ud83d\udccd Location: United States.",
+    "description": "Join the BrightPath team and be a key player in the Sales industry. Collaborate with professionals from diverse backgrounds while working on impactful projects.",
+    "requirements": [
+      "Relevant degree or equivalent professional experience.",
+      "Proficiency in Sales tools and technologies.",
+      "Excellent communication, analytical, and problem-solving skills.",
+      "Ability to work independently and collaboratively within a team.",
+      "A passion for continuous learning and innovation in your field."
+    ],
+    "responsibilities": [
+      "Collaborate with cross-functional teams on project initiatives.",
+      "Design, develop, and maintain core features and solutions.",
+      "Participate in regular team meetings, code reviews, and planning sessions.",
+      "Contribute to knowledge-sharing and documentation practices.",
+      "Support continuous improvement initiatives within the organization."
+    ],
+    "company": {
+      "name": "BrightPath",
+      "about": "BrightPath is a dynamic company in the Sales industry, committed to fostering innovation, collaboration, and professional growth for its global workforce."
+    },
+    "industry": "Sales",
+    "salary": "$108295",
+    "location": ["United States"],
+    "date": "2025-04-18T17:43:13.822981",
+    "logo_number_id": 3
+  },
+  {
+    "id": 42,
+    "title": "Data Analyst",
+    "summary": "NetPrime is hiring a Data Analyst. \ud83d\udcb0 Salary: $75822. \ud83d\udccd Location: United States.",
+    "description": "Join the NetPrime team and be a key player in the Data Analysis industry. Collaborate with professionals from diverse backgrounds while working on impactful projects.",
+    "requirements": [
+      "Relevant degree or equivalent professional experience.",
+      "Proficiency in Data Analysis tools and technologies.",
+      "Excellent communication, analytical, and problem-solving skills.",
+      "Ability to work independently and collaboratively within a team.",
+      "A passion for continuous learning and innovation in your field."
+    ],
+    "responsibilities": [
+      "Collaborate with cross-functional teams on project initiatives.",
+      "Design, develop, and maintain core features and solutions.",
+      "Participate in regular team meetings, code reviews, and planning sessions.",
+      "Contribute to knowledge-sharing and documentation practices.",
+      "Support continuous improvement initiatives within the organization."
+    ],
+    "company": {
+      "name": "NetPrime",
+      "about": "NetPrime is a dynamic company in the Data Analysis industry, committed to fostering innovation, collaboration, and professional growth for its global workforce."
+    },
+    "industry": "Data Analysis",
+    "salary": "$75822",
+    "location": ["United States"],
+    "date": "2025-04-16T10:51:13.822989",
+    "logo_number_id": 2
+  },
+  {
+    "id": 43,
+    "title": "Business Development Associate",
+    "summary": "Globex is hiring a Business Development Associate. \ud83d\udcb0 Salary: $128296. \ud83d\udccd Location: United Kingdom.",
+    "description": "Join the Globex team and be a key player in the Sales industry. Collaborate with professionals from diverse backgrounds while working on impactful projects.",
+    "requirements": [
+      "Relevant degree or equivalent professional experience.",
+      "Proficiency in Sales tools and technologies.",
+      "Excellent communication, analytical, and problem-solving skills.",
+      "Ability to work independently and collaboratively within a team.",
+      "A passion for continuous learning and innovation in your field."
+    ],
+    "responsibilities": [
+      "Collaborate with cross-functional teams on project initiatives.",
+      "Design, develop, and maintain core features and solutions.",
+      "Participate in regular team meetings, code reviews, and planning sessions.",
+      "Contribute to knowledge-sharing and documentation practices.",
+      "Support continuous improvement initiatives within the organization."
+    ],
+    "company": {
+      "name": "Globex",
+      "about": "Globex is a dynamic company in the Sales industry, committed to fostering innovation, collaboration, and professional growth for its global workforce."
+    },
+    "industry": "Sales",
+    "salary": "$128296",
+    "location": ["United Kingdom"],
+    "date": "2025-04-11T18:20:13.822997",
+    "logo_number_id": 2
+  },
+  {
+    "id": 44,
+    "title": "HR Coordinator",
+    "summary": "NextGen is hiring a HR Coordinator. \ud83d\udcb0 Salary: $134594. \ud83d\udccd Location: India.",
+    "description": "Join the NextGen team and be a key player in the Human Resources industry. Collaborate with professionals from diverse backgrounds while working on impactful projects.",
+    "requirements": [
+      "Relevant degree or equivalent professional experience.",
+      "Proficiency in Human Resources tools and technologies.",
+      "Excellent communication, analytical, and problem-solving skills.",
+      "Ability to work independently and collaboratively within a team.",
+      "A passion for continuous learning and innovation in your field."
+    ],
+    "responsibilities": [
+      "Collaborate with cross-functional teams on project initiatives.",
+      "Design, develop, and maintain core features and solutions.",
+      "Participate in regular team meetings, code reviews, and planning sessions.",
+      "Contribute to knowledge-sharing and documentation practices.",
+      "Support continuous improvement initiatives within the organization."
+    ],
+    "company": {
+      "name": "NextGen",
+      "about": "NextGen is a dynamic company in the Human Resources industry, committed to fostering innovation, collaboration, and professional growth for its global workforce."
+    },
+    "industry": "Human Resources",
+    "salary": "$134594",
+    "location": ["India"],
+    "date": "2025-04-23T21:53:13.823004",
+    "logo_number_id": 3
+  },
+  {
+    "id": 45,
+    "title": "Technical Writer",
+    "summary": "NextGen is hiring a Technical Writer. \ud83d\udcb0 Salary: $117759. \ud83d\udccd Location: Germany.",
+    "description": "Join the NextGen team and be a key player in the Writing industry. Collaborate with professionals from diverse backgrounds while working on impactful projects.",
+    "requirements": [
+      "Relevant degree or equivalent professional experience.",
+      "Proficiency in Writing tools and technologies.",
+      "Excellent communication, analytical, and problem-solving skills.",
+      "Ability to work independently and collaboratively within a team.",
+      "A passion for continuous learning and innovation in your field."
+    ],
+    "responsibilities": [
+      "Collaborate with cross-functional teams on project initiatives.",
+      "Design, develop, and maintain core features and solutions.",
+      "Participate in regular team meetings, code reviews, and planning sessions.",
+      "Contribute to knowledge-sharing and documentation practices.",
+      "Support continuous improvement initiatives within the organization."
+    ],
+    "company": {
+      "name": "NextGen",
+      "about": "NextGen is a dynamic company in the Writing industry, committed to fostering innovation, collaboration, and professional growth for its global workforce."
+    },
+    "industry": "Writing",
+    "salary": "$117759",
+    "location": ["Germany"],
+    "date": "2025-04-25T03:46:13.823021",
+    "logo_number_id": 1
+  },
+  {
+    "id": 46,
+    "title": "Quantitative Analyst",
+    "summary": "CoreLogic is hiring a Quantitative Analyst. \ud83d\udcb0 Salary: $115841. \ud83d\udccd Location: Any Country.",
+    "description": "Join the CoreLogic team and be a key player in the Data Analysis industry. Collaborate with professionals from diverse backgrounds while working on impactful projects.",
+    "requirements": [
+      "Relevant degree or equivalent professional experience.",
+      "Proficiency in Data Analysis tools and technologies.",
+      "Excellent communication, analytical, and problem-solving skills.",
+      "Ability to work independently and collaboratively within a team.",
+      "A passion for continuous learning and innovation in your field."
+    ],
+    "responsibilities": [
+      "Collaborate with cross-functional teams on project initiatives.",
+      "Design, develop, and maintain core features and solutions.",
+      "Participate in regular team meetings, code reviews, and planning sessions.",
+      "Contribute to knowledge-sharing and documentation practices.",
+      "Support continuous improvement initiatives within the organization."
+    ],
+    "company": {
+      "name": "CoreLogic",
+      "about": "CoreLogic is a dynamic company in the Data Analysis industry, committed to fostering innovation, collaboration, and professional growth for its global workforce."
+    },
+    "industry": "Data Analysis",
+    "salary": "$115841",
+    "location": ["Any Country"],
+    "date": "2025-04-09T14:28:13.823034",
+    "logo_number_id": 1
+  },
+  {
+    "id": 47,
+    "title": "Content Writer",
+    "summary": "Globex is hiring a Content Writer. \ud83d\udcb0 Salary: $72593. \ud83d\udccd Location: Australia.",
+    "description": "Join the Globex team and be a key player in the Writing industry. Collaborate with professionals from diverse backgrounds while working on impactful projects.",
+    "requirements": [
+      "Relevant degree or equivalent professional experience.",
+      "Proficiency in Writing tools and technologies.",
+      "Excellent communication, analytical, and problem-solving skills.",
+      "Ability to work independently and collaboratively within a team.",
+      "A passion for continuous learning and innovation in your field."
+    ],
+    "responsibilities": [
+      "Collaborate with cross-functional teams on project initiatives.",
+      "Design, develop, and maintain core features and solutions.",
+      "Participate in regular team meetings, code reviews, and planning sessions.",
+      "Contribute to knowledge-sharing and documentation practices.",
+      "Support continuous improvement initiatives within the organization."
+    ],
+    "company": {
+      "name": "Globex",
+      "about": "Globex is a dynamic company in the Writing industry, committed to fostering innovation, collaboration, and professional growth for its global workforce."
+    },
+    "industry": "Writing",
+    "salary": "$72593",
+    "location": ["Australia"],
+    "date": "2025-04-12T07:51:13.823046",
+    "logo_number_id": 4
+  },
+  {
+    "id": 48,
+    "title": "Recruitment Specialist",
+    "summary": "BlueSky is hiring a Recruitment Specialist. \ud83d\udcb0 Salary: $94579. \ud83d\udccd Location: Australia.",
+    "description": "Join the BlueSky team and be a key player in the Human Resources industry. Collaborate with professionals from diverse backgrounds while working on impactful projects.",
+    "requirements": [
+      "Relevant degree or equivalent professional experience.",
+      "Proficiency in Human Resources tools and technologies.",
+      "Excellent communication, analytical, and problem-solving skills.",
+      "Ability to work independently and collaboratively within a team.",
+      "A passion for continuous learning and innovation in your field."
+    ],
+    "responsibilities": [
+      "Collaborate with cross-functional teams on project initiatives.",
+      "Design, develop, and maintain core features and solutions.",
+      "Participate in regular team meetings, code reviews, and planning sessions.",
+      "Contribute to knowledge-sharing and documentation practices.",
+      "Support continuous improvement initiatives within the organization."
+    ],
+    "company": {
+      "name": "BlueSky",
+      "about": "BlueSky is a dynamic company in the Human Resources industry, committed to fostering innovation, collaboration, and professional growth for its global workforce."
+    },
+    "industry": "Human Resources",
+    "salary": "$94579",
+    "location": ["Australia"],
+    "date": "2025-04-12T04:36:13.823070",
+    "logo_number_id": 1
+  },
+  {
+    "id": 49,
+    "title": "Quantitative Analyst",
+    "summary": "BrightPath is hiring a Quantitative Analyst. \ud83d\udcb0 Salary: $108304. \ud83d\udccd Location: United States.",
+    "description": "Join the BrightPath team and be a key player in the Data Analysis industry. Collaborate with professionals from diverse backgrounds while working on impactful projects.",
+    "requirements": [
+      "Relevant degree or equivalent professional experience.",
+      "Proficiency in Data Analysis tools and technologies.",
+      "Excellent communication, analytical, and problem-solving skills.",
+      "Ability to work independently and collaboratively within a team.",
+      "A passion for continuous learning and innovation in your field."
+    ],
+    "responsibilities": [
+      "Collaborate with cross-functional teams on project initiatives.",
+      "Design, develop, and maintain core features and solutions.",
+      "Participate in regular team meetings, code reviews, and planning sessions.",
+      "Contribute to knowledge-sharing and documentation practices.",
+      "Support continuous improvement initiatives within the organization."
+    ],
+    "company": {
+      "name": "BrightPath",
+      "about": "BrightPath is a dynamic company in the Data Analysis industry, committed to fostering innovation, collaboration, and professional growth for its global workforce."
+    },
+    "industry": "Data Analysis",
+    "salary": "$108304",
+    "location": ["United States"],
+    "date": "2025-04-25T20:52:13.823081",
+    "logo_number_id": 3
+  },
+  {
+    "id": 50,
+    "title": "Copywriter",
+    "summary": "Visionary Inc is hiring a Copywriter. \ud83d\udcb0 Salary: $117389. \ud83d\udccd Location: Canada.",
+    "description": "Join the Visionary Inc team and be a key player in the Writing industry. Collaborate with professionals from diverse backgrounds while working on impactful projects.",
+    "requirements": [
+      "Relevant degree or equivalent professional experience.",
+      "Proficiency in Writing tools and technologies.",
+      "Excellent communication, analytical, and problem-solving skills.",
+      "Ability to work independently and collaboratively within a team.",
+      "A passion for continuous learning and innovation in your field."
+    ],
+    "responsibilities": [
+      "Collaborate with cross-functional teams on project initiatives.",
+      "Design, develop, and maintain core features and solutions.",
+      "Participate in regular team meetings, code reviews, and planning sessions.",
+      "Contribute to knowledge-sharing and documentation practices.",
+      "Support continuous improvement initiatives within the organization."
+    ],
+    "company": {
+      "name": "Visionary Inc",
+      "about": "Visionary Inc is a dynamic company in the Writing industry, committed to fostering innovation, collaboration, and professional growth for its global workforce."
+    },
+    "industry": "Writing",
+    "salary": "$117389",
+    "location": ["Canada"],
+    "date": "2025-04-19T21:47:13.823093",
+    "logo_number_id": 3
+  }
+]
